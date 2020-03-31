@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-christophlee.com is a personal blog for Christoph Lee.  Content includes wild foraging, food, hiking, data science projects and more.
+This is Christoph Lee's personal blog.  I post content on topics including wild foraging, food, hiking, data science projects and more.
