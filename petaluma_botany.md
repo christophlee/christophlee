@@ -11,7 +11,9 @@ Species documented to date (4/1/2020):<br />
 
 <div style="padding-left: 1em">
 
-<details><summary><img src="/assets/img/thumbnails/a_mollis-1.jpg" vspace="2" height="100" /> <strong>Acanthus mollis</strong> (<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=8450">Calflora</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/a_mollis-1.jpg" vspace="2" height="100" /> <strong>Acanthus mollis</strong> (
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=8450">Calflora</a> | 
+<a href="https://pfaf.org/user/Plant.aspx?LatinName=Acanthus+mollis">PFAF</a>)</summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Bear's Breech<br />
 <strong>Historic household popularity:</strong> Medium-High<br />
@@ -72,13 +74,15 @@ Species documented to date (4/1/2020):<br />
 <a href="/assets/img/b_officinalis-4.jpg"><img src="/assets/img/thumbnails/b_officinalis-4.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/c_officinalis-2.jpg" vspace="2" height="100" /> <strong>Calendula officinalis</strong> (<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=1253">Calflora</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/c_officinalis-2.jpg" vspace="2" height="100" /> <strong>Calendula officinalis</strong> (
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=1253">Calflora</a> | 
+<a href="https://pfaf.org/user/Plant.aspx?LatinName=Calendula+officinalis">PFAF</a>)</summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Pot Marigold<br />
 <strong>Historic household popularity:</strong> High<br />
-<strong>Comment:</strong><br />
-<strong>Edibility:</strong><br />
-<strong>Medicinal Uses:</strong><br />
+<strong>Comment:</strong> Calendula has really taken over the side yard in colorful fashion. Mom planted some a little while back and they've reseeded vigorously, and without much complaining from the family.<br />
+<strong>Edibility:</strong> Leaves and flowers are both edible raw!  Flowers petals are pleasant and delicate, making a pretty garnish on dishes.  I have not tried the leaves, but they are apparently sweet and salty and with a nutritional profile similar to dandelion greens!  Would be worth putting more effort into experimenting with ways to consume this plant!<br />
+<strong>Medicinal Uses:</strong> Well known medicinal plant with a variety of uses, including to treat skin problems (including wart removal), and to treat fever and chronic infections.<br />
 <strong>Distribution:</strong> Not native to California. Likely native to southern Europe.<br />
 <strong>Date observed:</strong> 4/1/2020<br />
 <a href="/assets/img/c_officinalis-1.jpg"><img src="/assets/img/thumbnails/c_officinalis-1.jpg" vspace="2" height="150" /></a>
@@ -187,6 +191,7 @@ Species documented to date (4/1/2020):<br />
 <a href="/assets/img/l_arvensis-2.jpg"><img src="/assets/img/thumbnails/l_arvensis-2.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/l_arvensis-3.jpg"><img src="/assets/img/thumbnails/l_arvensis-3.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/l_arvensis-4.jpg"><img src="/assets/img/thumbnails/l_arvensis-4.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/l_arvensis-5.jpg"><img src="/assets/img/thumbnails/l_arvensis-5.jpg" vspace="2" height="150" /></a>
 </div></details>
 
 <details><summary><img src="/assets/img/thumbnails/m_parviflora-1.jpg" vspace="2" height="100" /> <strong>Malva parviflora</strong> (<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=5354">Calflora</a>)</summary>
@@ -199,6 +204,11 @@ Species documented to date (4/1/2020):<br />
 <strong>Distribution:</strong> Not native to California. Native to Europe, North Africa, and Asia.<br />
 <strong>Date observed:</strong> 4/1/2020<br />
 <a href="/assets/img/m_parviflora-1.jpg"><img src="/assets/img/thumbnails/m_parviflora-1.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/m_parviflora-2.jpg"><img src="/assets/img/thumbnails/m_parviflora-2.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/m_parviflora-3.jpg"><img src="/assets/img/thumbnails/m_parviflora-3.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/m_parviflora-4.jpg"><img src="/assets/img/thumbnails/m_parviflora-4.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/m_parviflora-5.jpg"><img src="/assets/img/thumbnails/m_parviflora-5.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/m_parviflora-6.jpg"><img src="/assets/img/thumbnails/m_parviflora-6.jpg" vspace="2" height="150" /></a>
 </div></details>
 
 <details><summary><img src="/assets/img/thumbnails/m_polymorpha-3.jpg" vspace="2" height="100" /> <strong>Medicago polymorpha</strong> (<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=5385">Calflora</a>)</summary>
