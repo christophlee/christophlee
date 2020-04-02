@@ -11,8 +11,8 @@ Species documented to date (4/1/2020):<br />
 
 <div style="padding-left: 1em">
 
-<details><summary><img src="/assets/img/thumbnails/a_mollis-1.jpg" vspace="2" height="100" /> <strong>Acanthus mollis</strong> (
-<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=8450">Calflora</a> | 
+<details><summary><img src="/assets/img/thumbnails/a_mollis-1.jpg" vspace="2" height="100" /> <strong>Acanthus mollis</strong>
+(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=8450">Calflora</a> | 
 <a href="https://pfaf.org/user/Plant.aspx?LatinName=Acanthus+mollis">PFAF</a>)</summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Bear's Breech<br />
@@ -74,8 +74,8 @@ Species documented to date (4/1/2020):<br />
 <a href="/assets/img/b_officinalis-4.jpg"><img src="/assets/img/thumbnails/b_officinalis-4.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/c_officinalis-2.jpg" vspace="2" height="100" /> <strong>Calendula officinalis</strong> (
-<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=1253">Calflora</a> | 
+<details><summary><img src="/assets/img/thumbnails/c_officinalis-2.jpg" vspace="2" height="100" /> <strong>Calendula officinalis</strong>
+(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=1253">Calflora</a> | 
 <a href="https://pfaf.org/user/Plant.aspx?LatinName=Calendula+officinalis">PFAF</a>)</summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Pot Marigold<br />
