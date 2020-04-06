@@ -4,6 +4,25 @@ title: Petaluma Botany
 permalink: /botany/petaluma
 ---
 
+<style type="text/css">
+  summary {
+      display: block;
+  }
+  details > summary::-webkit-details-marker {
+    display: none;
+  }
+  summary:before {
+      content: "+";
+      padding-right: 0.5em;
+      font-size: 1.5em;
+      /*display: inline-block;
+      transform: rotate(-90deg);*/
+  }
+  details[open] > summary:before {
+    content: "\2212";
+  }
+</style>
+
 Botanical Encyclopedia of my Petaluma yard (aka the Lee Farm)!
 
 Note: I've done my best, but I can't guarantee that all identifications are correct. I also haven't rigorously validated the edibility and medicinal use information listed below, so do additional research if you intend to do use any of these plants internally.
@@ -223,9 +242,9 @@ Species documented to date (4/3/2020):<br />
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Petty Spurge<br />
 <strong>Historic household popularity:</strong> Unknown<br />
-<strong>Comment:</strong><br />
-<strong>Edibility:</strong><br />
-<strong>Medicinal Uses:</strong><br />
+<strong>Comment:</strong> Another fascinating plant! These little guys are all over the place in our yard.  Their flowers/fruit are pretty strange looking.<br />
+<strong>Edibility:</strong> Not edible!  In fact, your mouth will burn for days (apparently) if you should be unlucky enough to chew on it.<br />
+<strong>Medicinal Uses:</strong> E. peplus is known for treating a variety of skin lesions, including skin cancer, warts, and sunspots.  The mikly sap it exudes from the leaves and stalk when broken is toxic to human tissues (and in a variety of types of cancer cells, in particular), and will effectively burn off areas where it is applied.  The active ingredient in the sap is Ingenol Mebutate.  Euphorbia peplus, amazingly, has its own website -- <a href="http://www.euphorbiapeplus.com/">check it out</a>!<br />
 <strong>Distribution:</strong> Not native to California. Native to Europe, North Africa, West Asia.<br />
 <strong>Date observed:</strong> 3/31/2020<br />
 <a href="/assets/img/e_peplus-1.jpg"><img src="/assets/img/thumbnails/e_peplus-1.jpg" vspace="2" height="150" /></a>
@@ -239,7 +258,9 @@ Species documented to date (4/3/2020):<br />
 <a href="/assets/img/e_peplus-9.jpg"><img src="/assets/img/thumbnails/e_peplus-9.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/g_aparine-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Galium aparine</strong> (<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=3669">Calflora</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/g_aparine-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Galium aparine</strong>
+(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=3669">Calflora</a> |
+<a href="https://pfaf.org/user/Plant.aspx?LatinName=Galium+aparine">PFAF</a>)</summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Cleavers; Bedstraw; Catchweed<br />
 <strong>Historic household popularity:</strong> Low<br />
@@ -255,13 +276,15 @@ Species documented to date (4/3/2020):<br />
 <a href="/assets/img/g_aparine-5.jpg"><img src="/assets/img/thumbnails/g_aparine-5.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/g_dissectum-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Geranium dissectum</strong> (<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=3799">Calflora</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/g_dissectum-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Geranium dissectum</strong>
+(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=3799">Calflora</a> |
+<a href="https://pfaf.org/user/Plant.aspx?LatinName=Geranium+dissectum">PFAF</a>)</summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Cutleaf Geranium; Cutleaf Crane's Bill<br />
 <strong>Historic household popularity:</strong> Medium<br />
-<strong>Comment:</strong><br />
-<strong>Edibility:</strong><br />
-<strong>Medicinal Uses:</strong><br />
+<strong>Comment:</strong>  We've got lots of g. dissectum in healthy competition with the other vigours growing weeds in the yard.  The little pink flowers and lacy leaves make an attractive addition to the weed jungle.  Having said that, we probably don't need quite so much g. dissectum.<br />
+<strong>Edibility:</strong> Seems to be edible, but rather unappetizing.  If you find yourself confined to your home with no food and the gardener pulled out all the edible plants except a few g. dissectum, you can cook and eat the roots.<br />
+<strong>Medicinal Uses:</strong> An infusion of the whole plant can be used to treat diahrroea, internal bleeding, and more.<br />
 <strong>Distribution:</strong> Not native to California. Native to Europe.<br />
 <strong>Date observed:</strong> 4/1/2020<br />
 <a href="/assets/img/g_dissectum-1.jpg"><img src="/assets/img/thumbnails/g_dissectum-1.jpg" vspace="2" height="150" /></a>
@@ -289,13 +312,15 @@ Species documented to date (4/3/2020):<br />
 <a href="/assets/img/l_purpureum-5.jpg"><img src="/assets/img/thumbnails/l_purpureum-5.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/l_arvensis-2.jpg" loading="eager" vspace="2" height="100" /> <strong>Lysimachia arvensis</strong> (<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=13206">Calflora</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/l_arvensis-2.jpg" loading="eager" vspace="2" height="100" /> <strong>Lysimachia arvensis</strong>
+(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=13206">Calflora</a> |
+<a href="https://pfaf.org/user/Plant.aspx?LatinName=Anagallis+arvensis">PFAF</a>)</summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Scarlet Pimpernel<br />
 <strong>Historic household popularity:</strong> Unknown<br />
-<strong>Comment:</strong><br />
-<strong>Edibility:</strong><br />
-<strong>Medicinal Uses:</strong><br />
+<strong>Comment:</strong> We don't have many of these, but I've found them in a few locations around the yard.  This is a good one to be familiar with, so that you don't mix it up with chickweed, which is sort of similar (except for the flower).<br />
+<strong>Edibility:</strong> Apparently this plant does have a history of consumption, but it is no longer recommended due to potential toxicity, and anyways is supposedly acrid.<br />
+<strong>Medicinal Uses:</strong>  L. arvensis has a history of medicinal use in some countries, but its unclear whether these have much efficacy.<br />
 <strong>Date observed:</strong> 3/31/2020<br />
 <a href="/assets/img/l_arvensis-1.jpg"><img src="/assets/img/thumbnails/l_arvensis-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/l_arvensis-2.jpg"><img src="/assets/img/thumbnails/l_arvensis-2.jpg" vspace="2" height="150" /></a>
