@@ -27,7 +27,7 @@ Botanical Encyclopedia of my Petaluma yard (aka the Lee Farm)!
 
 Note: I've done my best, but I can't guarantee that all identifications are correct. I also haven't rigorously validated the edibility and medicinal use information listed below, so do additional research if you intend to do use any of these plants internally.
 
-Species documented to date (4/3/2020):<br />
+Species documented to date (4/6/2020):<br />
 (Click to expand)
 
 <div style="padding-left: 1em">
@@ -99,6 +99,28 @@ Species documented to date (4/3/2020):<br />
 <a href="/assets/img/b_officinalis-2.jpg"><img src="/assets/img/thumbnails/b_officinalis-2.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/b_officinalis-3.jpg"><img src="/assets/img/thumbnails/b_officinalis-3.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/b_officinalis-4.jpg"><img src="/assets/img/thumbnails/b_officinalis-4.jpg" vspace="2" height="150" /></a>
+</div></details>
+
+<details><summary><img src="/assets/img/thumbnails/b_diandrus-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Bromus diandrus</strong>
+(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=1200">Calflora</a> | 
+<a href="https://pfaf.org/user/Plant.aspx?LatinName=Bromus+rigidus">PFAF</a>)</summary>
+<div style="padding-left: 2em">
+<strong>Common name(s):</strong> Ripgut Brome<br />
+<strong>Historic household popularity:</strong> Unknown<br />
+<strong>Comment:</strong> We have a thriving patch of b. diandrus in the back corner of the back yard by the big leaf maple tree, as well as some scattered around the yard elsewhere.<br />
+<strong>Edibility:</strong> The small seed can be cooked and eaten, or ground up and used for pinole. I have not tried it, and am not particularly inclined to due to its small size, but we'll see.<br />
+<strong>Medicinal Uses:</strong> None known.<br />
+<strong>Distribution:</strong> Not native to California. Native to the Mediterranean region.<br />
+<strong>Date observed:</strong> 4/6/2020<br />
+<a href="/assets/img/b_diandrus-1.jpg"><img src="/assets/img/thumbnails/b_diandrus-1.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/b_diandrus-2.jpg"><img src="/assets/img/thumbnails/b_diandrus-2.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/b_diandrus-3.jpg"><img src="/assets/img/thumbnails/b_diandrus-3.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/b_diandrus-4.jpg"><img src="/assets/img/thumbnails/b_diandrus-4.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/b_diandrus-5.jpg"><img src="/assets/img/thumbnails/b_diandrus-5.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/b_diandrus-6.jpg"><img src="/assets/img/thumbnails/b_diandrus-6.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/b_diandrus-7.jpg"><img src="/assets/img/thumbnails/b_diandrus-7.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/b_diandrus-8.jpg"><img src="/assets/img/thumbnails/b_diandrus-8.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/b_diandrus-9.jpg"><img src="/assets/img/thumbnails/b_diandrus-9.jpg" vspace="2" height="150" /></a>
 </div></details>
 
 <details><summary><img src="/assets/img/thumbnails/c_menziesii-2.jpg" loading="eager" vspace="2" height="100" /> <strong>Calandrinia menziesii</strong>
@@ -183,6 +205,23 @@ Species documented to date (4/3/2020):<br />
 <a href="/assets/img/c_perfoliata-5.jpg"><img src="/assets/img/thumbnails/c_perfoliata-5.jpg" vspace="2" height="150" /></a>
 </div></details>
 
+<details><summary><img src="/assets/img/thumbnails/c_maculatum-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Conium maculatum</strong>
+(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=2317">Calflora</a> | 
+<a href="https://pfaf.org/user/Plant.aspx?LatinName=Conium+maculatum">PFAF</a>)</summary>
+<div style="padding-left: 2em">
+<strong>Common name(s):</strong> Poison Hemlock<br />
+<strong>Historic household popularity:</strong> Low<br />
+<strong>Comment:</strong> The c. maculatum patch in the back right corner of the back yard is likely to be heavily weeded very shortly.  I doubt this plant will ever go away completely, however, since the creek will probably provide a safe haven for the local population to persist.  There is a classic tale from my childhood that recounts the time when Dad exuberantly scarfed down a fistful of hemlock from the back yard, having mistook it for wild fennel.  He recalls it being delicious, but the nausea that followed disuaded further attempts.<br />
+<strong>Edibility:</strong> The entire plant is considered toxic, but the seeds have the highest concentration of toxic alkaloids.  Surprisingly, there are people that eat the leaves of c. maculatum when thoroughly cooked or dried, but only in southern England.  Regardless, one should refrain from consuming this plant.<br />
+<strong>Medicinal Uses:</strong> C. maculatum does have a long history of medicinal use, but it is not commonly employed today due to its known toxicity.<br />
+<strong>Distribution:</strong> Not native to California. Native to Europe and North Africa.<br />
+<strong>Date observed:</strong> 4/6/2020<br />
+<a href="/assets/img/c_maculatum-1.jpg"><img src="/assets/img/thumbnails/c_maculatum-1.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/c_maculatum-2.jpg"><img src="/assets/img/thumbnails/c_maculatum-2.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/c_maculatum-3.jpg"><img src="/assets/img/thumbnails/c_maculatum-3.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/c_maculatum-4.jpg"><img src="/assets/img/thumbnails/c_maculatum-4.jpg" vspace="2" height="150" /></a>
+</div></details>
+
 <details><summary><img src="/assets/img/thumbnails/c_arvensis-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Convolvulus arvensis</strong>
 (<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=2321">Calflora</a> | 
 <a href="https://pfaf.org/user/plant.aspx?LatinName=Claytonia+perfoliata">PFAF</a>)</summary>
@@ -198,6 +237,25 @@ Species documented to date (4/3/2020):<br />
 <a href="/assets/img/c_arvensis-2.jpg"><img src="/assets/img/thumbnails/c_arvensis-2.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/c_arvensis-3.jpg"><img src="/assets/img/thumbnails/c_arvensis-3.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/c_arvensis-4.jpg"><img src="/assets/img/thumbnails/c_arvensis-4.jpg" vspace="2" height="150" /></a>
+</div></details>
+
+<details><summary><img src="/assets/img/thumbnails/e_ciliatum-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Epilobium ciliatum</strong>
+(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=2988">Calflora</a> | 
+<a href="https://pfaf.org/user/Plant.aspx?LatinName=Erodium+moschatum">PFAF</a>)</summary>
+<div style="padding-left: 2em">
+<strong>Common name(s):</strong> Slender Willow Herb<br />
+<strong>Historic household popularity:</strong> Unknown<br />
+<strong>Comment:</strong> The plant has tiny little pink-purple flowers and really likes to sprout up in my turnip patch.  It seems to have quite a bit of variation in plant growth habit around our yard.  Most of the e. ciliatum in our yard seems to be concentrated between the back yard planting beds (around the asparagus) and the pond hill.<br />
+<strong>Edibility:</strong> I haven't found any information one way or another.  So that will be a no-go.<br />
+<strong>Medicinal Uses:</strong> There are a few references to the plant being used by Native Americans to relieve muscle cramps and for diahrroea.<br />
+<strong>Distribution:</strong> California native!<br />
+<strong>Date observed:</strong> 4/6/2020<br />
+<a href="/assets/img/e_ciliatum-1.jpg"><img src="/assets/img/thumbnails/e_ciliatum-1.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/e_ciliatum-2.jpg"><img src="/assets/img/thumbnails/e_ciliatum-2.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/e_ciliatum-3.jpg"><img src="/assets/img/thumbnails/e_ciliatum-3.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/e_ciliatum-4.jpg"><img src="/assets/img/thumbnails/e_ciliatum-4.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/e_ciliatum-5.jpg"><img src="/assets/img/thumbnails/e_ciliatum-5.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/e_ciliatum-6.jpg"><img src="/assets/img/thumbnails/e_ciliatum-6.jpg" vspace="2" height="150" /></a>
 </div></details>
 
 <details><summary><img src="/assets/img/thumbnails/e_moschatum-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Erodium moschatum</strong>
@@ -295,6 +353,47 @@ Species documented to date (4/3/2020):<br />
 <a href="/assets/img/g_dissectum-6.jpg"><img src="/assets/img/thumbnails/g_dissectum-6.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/g_dissectum-7.jpg"><img src="/assets/img/thumbnails/g_dissectum-7.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/g_dissectum-8.jpg"><img src="/assets/img/thumbnails/g_dissectum-8.jpg" vspace="2" height="150" /></a>
+</div></details>
+
+<details><summary><img src="/assets/img/thumbnails/g_purpureum-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Geranium purpureum</strong>
+(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=8594">Calflora</a>)</summary>
+<div style="padding-left: 2em">
+<strong>Common name(s):</strong> Little Robin; Lesser Herb Robert<br />
+<strong>Historic household popularity:</strong> Unknown<br />
+<strong>Comment:</strong> There is a fair amount of g. purpureum growing long the top of the concrete wall bordering the creek in the front and side yards.  It is a pretty interesting leaf arrangement and leaflet geometry, plus cute little pink flowers.<br />
+<strong>Edibility:</strong> Not edible, as far as I can tell.<br />
+<strong>Medicinal Uses:</strong> I can't find much info on g. purpureum uses, other than references to uses of closely related g. robertanium (Herb Robert).<br />
+<strong>Distribution:</strong> Not native to California. Native to Europe, North Africa, and West Asia.<br />
+<strong>Date observed:</strong> 4/1/2020<br />
+<a href="/assets/img/g_purpureum-1.jpg"><img src="/assets/img/thumbnails/g_purpureum-1.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/g_purpureum-2.jpg"><img src="/assets/img/thumbnails/g_purpureum-2.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/g_purpureum-3.jpg"><img src="/assets/img/thumbnails/g_purpureum-3.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/g_purpureum-4.jpg"><img src="/assets/img/thumbnails/g_purpureum-4.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/g_purpureum-5.jpg"><img src="/assets/img/thumbnails/g_purpureum-5.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/g_purpureum-6.jpg"><img src="/assets/img/thumbnails/g_purpureum-6.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/g_purpureum-7.jpg"><img src="/assets/img/thumbnails/g_purpureum-7.jpg" vspace="2" height="150" /></a>
+</div></details>
+
+<details><summary><img src="/assets/img/thumbnails/l_serriola-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Lactuca serriola</strong>
+(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=4550">Calflora</a> |
+<a href="https://pfaf.org/user/Plant.aspx?LatinName=Lactuca+serriola">PFAF</a>)</summary>
+<div style="padding-left: 2em">
+<strong>Common name(s):</strong> Prickly Wild Lettuce<br />
+<strong>Historic household popularity:</strong> Unknown<br />
+<strong>Comment:</strong> We have a number of l. serriola plants in our yard, including a big one that's trying to muscle its way through the middle of the coffee berry bush by the bee hive. These plants seem like they can have quite a bit of leave variation between individuals and over time.  Interestingly, l. serriola is the closest botanical relative to l. sativa -- garden lettuce!<br />
+<strong>Edibility:</strong> The young leaves can be eaten raw or (lightly) cooked and the flowering shoots can be cooked like asparagus.  Supposedly the plant becomes unpleasantly bitter as it gets older.  I have not tried it, though I might.  I wonder if the spikes on the leaves will be an issue.<br />
+<strong>Medicinal Uses:</strong>  So, there is a lot going on here.  Apparently, the mikly sap of l. serriola contains a compound called 'lactucarium', which is, in effect, a very week opium that doesn't have side effects (it is not addictive nor nausea-inducing).  The concentration of this magical 'lettuce opium' is maximized when the plant goes to flower, and can be collected by cutting off the flower heads and scraping away the exuded milk repeatedly until it runs dry.  It sounds like pretty potent stuff, even so, and should be used with caution.  Very interesting indeed.  Apparently lettuce opium has been around for a long time, but saw a resurgence in popularity in the 1970's with the hippie movement, and is still used today as a pain reliever and legal psychotropic.  L. virosa, a closely related species, has higher concentrations of lactucarium and is more well known for these medicinal properties, while garden lettuce (l. sativa) contains some amount of lactucarium as well!<br />
+<strong>Distribution:</strong> Not native to California. Native to Europe, Asia, and North Africa.<br />
+<strong>Date observed:</strong> 4/6/2020<br />
+<a href="/assets/img/l_serriola-1.jpg"><img src="/assets/img/thumbnails/l_serriola-1.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/l_serriola-2.jpg"><img src="/assets/img/thumbnails/l_serriola-2.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/l_serriola-3.jpg"><img src="/assets/img/thumbnails/l_serriola-3.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/l_serriola-4.jpg"><img src="/assets/img/thumbnails/l_serriola-4.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/l_serriola-5.jpg"><img src="/assets/img/thumbnails/l_serriola-5.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/l_serriola-6.jpg"><img src="/assets/img/thumbnails/l_serriola-6.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/l_serriola-7.jpg"><img src="/assets/img/thumbnails/l_serriola-7.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/l_serriola-8.jpg"><img src="/assets/img/thumbnails/l_serriola-8.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/l_serriola-9.jpg"><img src="/assets/img/thumbnails/l_serriola-9.jpg" vspace="2" height="150" /></a>
 </div></details>
 
 <details><summary><img src="/assets/img/thumbnails/l_purpureum-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Lamium purpureum</strong> (<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=4562">Calflora</a>)</summary>
@@ -431,6 +530,20 @@ Species documented to date (4/3/2020):<br />
 <a href="/assets/img/p_annua-5.jpg"><img src="/assets/img/thumbnails/p_annua-5.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/p_annua-6.jpg"><img src="/assets/img/thumbnails/p_annua-6.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/p_annua-7.jpg"><img src="/assets/img/thumbnails/p_annua-7.jpg" vspace="2" height="150" /></a>
+</div></details>
+
+<details><summary><img src="/assets/img/thumbnails/r_muricatus-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Ranunculus muricatus</strong>
+(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=7048">Calflora</a> | 
+<a href="https://pfaf.org/user/Plant.aspx?LatinName=Ranunculus+muricatus">PFAF</a>)</summary>
+<div style="padding-left: 2em">
+<strong>Common name(s):</strong> Spiny-fruit Buttercup<br />
+<strong>Historic household popularity:</strong> Unknown<br />
+<strong>Comment:</strong> This inconspicuous ranunculus patch was hiding in the corner of the front yard near the creek, under the shade of a tree.  A small little patch, but with a fair number of plants.<br />
+<strong>Edibility:</strong> Not edible!<br />
+<strong>Medicinal Uses:</strong> Does not seem commonly used, but there is reference to this plant being used to treat fevers and more.<br />
+<strong>Distribution:</strong> Not native to California. Native to Europe.<br />
+<strong>Date observed:</strong> 4/6/2020<br />
+<a href="/assets/img/r_muricatus-1.jpg"><img src="/assets/img/thumbnails/r_muricatus-1.jpg" vspace="2" height="150" /></a>
 </div></details>
 
 <details><summary><img src="/assets/img/thumbnails/s_vulgaris-3.jpg" loading="eager" vspace="2" height="100" /> <strong>Senecio vulgaris</strong> (<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=7524">Calflora</a>)</summary>
