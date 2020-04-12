@@ -21,16 +21,44 @@ permalink: /botany/petaluma
   details[open] > summary:before {
     content: "\2212";
   }
+  /*.sp_heading {
+      width: 50%;
+      border: none;
+      border-collapse: collapse;
+      border-spacing: 0;
+      display: inline-table;
+  }
+  .sp_heading td {
+      padding: 0;
+      margin: 0;
+      vertical-align: top;
+      border: none;
+  }*/
 </style>
 
 Botanical Encyclopedia of my Petaluma yard (aka the Lee Farm)!
 
-Note: I've done my best, but I can't guarantee that all identifications are correct. I also haven't rigorously validated the edibility and medicinal use information listed below, so do additional research if you intend to do use any of these plants internally.
+Note: I've done my best, but I can't guarantee that all identifications are correct. I also haven't rigorously validated the edibility and medicinal use information listed below, so do additional research if you intend to use any of these plants internally.
 
-Species documented to date (4/9/2020):<br />
+Known exclusions: 3 grass spp.
+
+Species documented to date (4/11/2020):<br />
 (Click to expand)
 
 <div style="padding-left: 1em">
+
+<!--<details><summary><table class="sp_heading"><tr><td width="130"><img src="/assets/img/thumbnails/a_mollis-1.jpg" loading="eager" vspace="2" height="100" /></td><td style="padding-left:1em"><strong>Acanthus mollis</strong><br />
+(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=8450">Calflora</a> | 
+<a href="https://pfaf.org/user/Plant.aspx?LatinName=Acanthus+mollis">PFAF</a>)</td></tr></table></summary>
+<div style="padding-left: 2em">
+<strong>Common name(s):</strong> Bear's Breech<br />
+<strong>Historic household popularity:</strong> Medium-High<br />
+<strong>Comment:</strong> Dad's favorite.  Highly invasive, prolific plant.  Has taken over much of the back yard, with side and front yards following.<br />
+<strong>Edibility:</strong> Unknown<br />
+<strong>Medicinal Uses:</strong> Traditionally used to treat dislocated joints and to sooth burns.<br />
+<strong>Date observed:</strong> 3/30/2020<br />
+<a href="/assets/img/a_mollis-1.jpg"><img src="/assets/img/thumbnails/a_mollis-1.jpg" vspace="2" height="150" /></a>
+</div></details>-->
 
 <details><summary><img src="/assets/img/thumbnails/a_mollis-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Acanthus mollis</strong>
 (<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=8450">Calflora</a> | 
@@ -59,6 +87,20 @@ Species documented to date (4/9/2020):<br />
 <strong>Date observed:</strong> 4/8/2020<br />
 <a href="/assets/img/a_macrophyllum-1.jpg"><img src="/assets/img/thumbnails/a_macrophyllum-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/a_macrophyllum-2.jpg"><img src="/assets/img/thumbnails/a_macrophyllum-2.jpg" loading="lazy" vspace="2" height="150" /></a>
+</div></details>
+
+<details><summary><img src="/assets/img/thumbnails/a_palmatum-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Acer palmatum</strong>
+(<a href="https://pfaf.org/user/Plant.aspx?LatinName=Acer+palmatum">PFAF</a>)</summary>
+<div style="padding-left: 2em">
+<strong>Common name(s):</strong> Japanese Maple<br />
+<strong>Historic household popularity:</strong> High<br />
+<strong>Comment:</strong> We've always had a few Japanese Maples in the front yard.  They are cool looking trees, but they don't seem to grow much.  They are able to disperse seed effectively enough to yield some seedlings, however.<br />
+<strong>Edibility:</strong> You can make syrup from these, technically.  And you can technically eat the leaves, but you probably don't want to.<br />
+<strong>Medicinal Uses:</strong> None known.<br />
+<strong>Distribution:</strong> Not native to California. Native to Japan.<br />
+<strong>Date observed:</strong> 4/10/2020<br />
+<a href="/assets/img/a_palmatum-1.jpg"><img src="/assets/img/thumbnails/a_palmatum-1.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/a_palmatum-2.jpg"><img src="/assets/img/thumbnails/a_palmatum-2.jpg" loading="lazy" vspace="2" height="150" /></a>
 </div></details>
 
 <details><summary><img src="/assets/img/thumbnails/a_neapolitanum-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Allium neapolitanum</strong>
@@ -115,6 +157,8 @@ Species documented to date (4/9/2020):<br />
 <a href="/assets/img/a_vineale-1.jpg"><img src="/assets/img/thumbnails/a_vineale-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/a_vineale-2.jpg"><img src="/assets/img/thumbnails/a_vineale-2.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/a_vineale-3.jpg"><img src="/assets/img/thumbnails/a_vineale-3.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/a_vineale-4.jpg"><img src="/assets/img/thumbnails/a_vineale-4.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/a_vineale-5.jpg"><img src="/assets/img/thumbnails/a_vineale-5.jpg" vspace="2" height="150" /></a>
 </div></details>
 
 <details><summary><img src="/assets/img/thumbnails/a_caucalis-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Anthriscus caucalis</strong>
@@ -138,7 +182,6 @@ Species documented to date (4/9/2020):<br />
 <a href="/assets/img/a_caucalis-8.jpg"><img src="/assets/img/thumbnails/a_caucalis-8.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/a_caucalis-9.jpg"><img src="/assets/img/thumbnails/a_caucalis-9.jpg" vspace="2" height="150" /></a>
 </div></details>
-
 
 <details><summary><img src="/assets/img/thumbnails/a_italicum-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Arum italicum</strong>
 (<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=730">Calflora</a> | 
@@ -358,6 +401,8 @@ Species documented to date (4/9/2020):<br />
 <strong>Distribution:</strong> Not native to California. Native to China.<br />
 <strong>Date observed:</strong> 4/8/2020<br />
 <a href="/assets/img/c_lacteus-1.jpg"><img src="/assets/img/thumbnails/c_lacteus-1.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/c_lacteus-2.jpg"><img src="/assets/img/thumbnails/c_lacteus-2.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/c_lacteus-3.jpg"><img src="/assets/img/thumbnails/c_lacteus-3.jpg" vspace="2" height="150" /></a>
 </div></details>
 
 <details><summary><img src="/assets/img/thumbnails/c_pannosus-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Cotoneaster pannosus</strong>
@@ -373,6 +418,7 @@ Species documented to date (4/9/2020):<br />
 <strong>Date observed:</strong> 4/8/2020<br />
 <a href="/assets/img/c_pannosus-1.jpg"><img src="/assets/img/thumbnails/c_pannosus-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/c_pannosus-2.jpg"><img src="/assets/img/thumbnails/c_pannosus-2.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/c_pannosus-3.jpg"><img src="/assets/img/thumbnails/c_pannosus-3.jpg" vspace="2" height="150" /></a>
 </div></details>
 
 <details><summary><img src="/assets/img/thumbnails/d_odorata-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Delairea odorata</strong>
@@ -849,6 +895,56 @@ Species documented to date (4/9/2020):<br />
 <a href="/assets/img/o_pes-caprae-7.jpg"><img src="/assets/img/thumbnails/o_pes-caprae-7.jpg" vspace="2" height="150" /></a>
 </div></details>
 
+<details><summary><img src="/assets/img/thumbnails/p_somniferum-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Papaver somniferum</strong>
+(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=6058">Calflora</a> | 
+<a href="https://pfaf.org/user/plant.aspx?LatinName=Papaver+somniferum">PFAF</a> |
+<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=36229">Jepson</a>)</summary>
+<div style="padding-left: 2em">
+<strong>Common name(s):</strong> Opium Poppy<br />
+<strong>Historic household popularity:</strong> High<br />
+<strong>Comment:</strong> Mom calls these Peter Jones' Poppies, and they have pretty well escaped their original planting area and are poppy up in a variety of locations around the yard, front, side, and back!<br />
+<strong>Edibility:</strong> Poppy seeds!  These are the same poppy seeds you would find at the store -- they contain very little (if any) of the narcotic compounds.  The leaves can also be eaten (raw or cooked), preferably before the flower heads develop.<br />
+<strong>Medicinal Uses:</strong> This is a potent one! The dried latex from the unripe seed heads is high in a variety of alkaloids, including opium and morphine.  They are used for pain relief, and a variety of other purposes, but are notoriously addictive.<br />
+<strong>Distribution:</strong> Not native to California. Native to the Eastern Mediterreanean region, probably.<br />
+<strong>Date observed:</strong> 4/10/2020<br />
+<a href="/assets/img/p_somniferum-1.jpg"><img src="/assets/img/thumbnails/p_somniferum-1.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/p_somniferum-2.jpg"><img src="/assets/img/thumbnails/p_somniferum-2.jpg" vspace="2" height="150" /></a>
+</div></details>
+
+<details><summary><img src="/assets/img/thumbnails/p_distans-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Phacelia distans</strong>
+(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=6318">Calflora</a> |
+<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=37450">Jepson</a>)</summary>
+<div style="padding-left: 2em">
+<strong>Common name(s):</strong> Common Phacelia; Distant Phecelia<br />
+<strong>Historic household popularity:</strong> Unknown<br />
+<strong>Comment:</strong> We have phaecelia!  Just one plant, hiding along the fence next to the hugelkultur.  Wouldn't mind seeing more phacelia around the yard! Note: this could possibly be p. tanacetifolia -- flowers will confirm.<br />
+<strong>Edibility:</strong> Some spieces of phacelia have edible leaves, but I can't find any info regarding p. distans.<br />
+<strong>Medicinal Uses:</strong> None that I can find.<br />
+<strong>Distribution:</strong> California native!<br />
+<strong>Date observed:</strong> 4/11/2020<br />
+<a href="/assets/img/p_distans-1.jpg"><img src="/assets/img/thumbnails/p_distans-1.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/p_distans-2.jpg"><img src="/assets/img/thumbnails/p_distans-2.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/p_distans-3.jpg"><img src="/assets/img/thumbnails/p_distans-3.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/p_distans-4.jpg"><img src="/assets/img/thumbnails/p_distans-4.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/p_distans-5.jpg"><img src="/assets/img/thumbnails/p_distans-5.jpg" vspace="2" height="150" /></a>
+</div></details>
+
+<details><summary><img src="/assets/img/thumbnails/p_serratifolia-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Photinia serratifolia</strong>
+(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=12766">Calflora</a> | 
+<a href="https://pfaf.org/user/Plant.aspx?LatinName=Photinia+serratifolia">PFAF</a>)</summary>
+<div style="padding-left: 2em">
+<strong>Common name(s):</strong> Taiwanese Photinia<br />
+<strong>Historic household popularity:</strong> Unkonwn<br />
+<strong>Comment:</strong>  The one big p. serratifolia in the front yard next to the holly leaf cherry has been slowly getting trimmed back lately to open up the canopy a bit.  It has apparently been successful in reseeding itself as evidenced by the numerous sprouts growing out of the pond mound by the waterfall.  The flowers are pretty aromatic on this tree.<br />
+<strong>Edibility:</strong> Doesn't seem to be.<br />
+<strong>Medicinal Uses:</strong> Supposedly a strong aphrodisiac?  Also invigorating (tonic).<br />
+<strong>Distribution:</strong> Not native to California. Native to East Asia.<br />
+<strong>Date observed:</strong> 4/10/2020<br />
+<a href="/assets/img/p_serratifolia-1.jpg"><img src="/assets/img/thumbnails/p_serratifolia-1.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/p_serratifolia-2.jpg"><img src="/assets/img/thumbnails/p_serratifolia-2.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/p_serratifolia-3.jpg"><img src="/assets/img/thumbnails/p_serratifolia-3.jpg" vspace="2" height="150" /></a>
+</div></details>
+
 <details><summary><img src="/assets/img/thumbnails/p_annua-3.jpg" loading="eager" vspace="2" height="100" /> <strong>Poa annua</strong> (<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=6658">Calflora</a>)</summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Annual Bluegrass<br />
@@ -865,6 +961,21 @@ Species documented to date (4/9/2020):<br />
 <a href="/assets/img/p_annua-5.jpg"><img src="/assets/img/thumbnails/p_annua-5.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/p_annua-6.jpg"><img src="/assets/img/thumbnails/p_annua-6.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/p_annua-7.jpg"><img src="/assets/img/thumbnails/p_annua-7.jpg" vspace="2" height="150" /></a>
+</div></details>
+
+<details><summary><img src="/assets/img/thumbnails/p_lanceolata-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Plantago lanceolata</strong>
+(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=6618">Calflora</a> | 
+<a href="https://pfaf.org/user/plant.aspx?LatinName=Plantago+lanceolata">PFAF</a> |
+<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=38567">Jepson</a>)</summary>
+<div style="padding-left: 2em">
+<strong>Common name(s):</strong> English Plantain; Narrow Leaved Plantain<br />
+<strong>Historic household popularity:</strong> Unknown<br />
+<strong>Comment:</strong>  Well, here I was thinking that we, amazingly, didn't have any plantain growing in our yard.  There is at least one! A little one, right off the back deck of the studio.<br />
+<strong>Edibility:</strong> The leaves can be eaten raw or cooked -- the younger the better to avoid excessive bitterness and stringyness.  The seeds can be cooked, or ground into flour and used for a variety of recipes.  Green Deane shares a bunch of plantain recipes <a href="http://www.eattheweeds.com/white-mans-little-foot-dwarf-plantain-2/">here</a> -- the plantain chips sound interesting!<br />
+<strong>Medicinal Uses:</strong> A widely used medicinal plant, especially for wounds (clotting and tissue repair), skin irritations in general, and for a variety of gut relatied issues and more.  The seeds have a fair amount of mucilage and act as a laxative in larger quantities.<br />
+<strong>Distribution:</strong> Not native to California. Native to Europe.<br />
+<strong>Date observed:</strong> 4/10/2020<br />
+<a href="/assets/img/p_lanceolata-1.jpg"><img src="/assets/img/thumbnails/p_lanceolata-1.jpg" vspace="2" height="150" /></a>
 </div></details>
 
 <details><summary><img src="/assets/img/thumbnails/p_ilicifolia-2.jpg" loading="eager" vspace="2" height="100" /> <strong>Prunus ilicifolia</strong>
@@ -932,6 +1043,25 @@ Species documented to date (4/9/2020):<br />
 <a href="/assets/img/r_muricatus-6.jpg"><img src="/assets/img/thumbnails/r_muricatus-6.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/r_muricatus-7.jpg"><img src="/assets/img/thumbnails/r_muricatus-7.jpg" vspace="2" height="150" /></a>
 </div></details>
+
+<details><summary><img src="/assets/img/thumbnails/r_rosea-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Romulea rosea</strong>
+(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=10308">Calflora</a> |
+<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=65230">Jepson</a>)</summary>
+<div style="padding-left: 2em">
+<strong>Common name(s):</strong> Onion Grass; Rosy Sandcrocus<br />
+<strong>Historic household popularity:</strong> Unknown<br />
+<strong>Comment:</strong> This one just popped up out of nowhere!  A single beautiful flower, and right off back deck of the studio, perfectly placed to be stepped on.  We'll see how long it lasts.<br />
+<strong>Edibility:</strong> Edible! Apparently the fruits of r. rosea, while small, are sweet and juicy -- even called "plum puddings" by some.  The corms can be eaten as well, with a flavor similar to water chestnuts, but with a bitter aftertaste. The leaves are tough but probably edible. <a href="https://tasmanianplants.wordpress.com/2009/11/02/a-snack-of-onion-grass-romulea-rosea/">Here</a> is a relevant post.<br />
+<strong>Medicinal Uses:</strong> Does not seem commonly used, but there is reference to this plant being used to treat fevers and more.<br />
+<strong>Distribution:</strong> Not native to California. Native to South Africa.<br />
+<strong>Date observed:</strong> 4/6/2020<br />
+<a href="/assets/img/r_rosea-1.jpg"><img src="/assets/img/thumbnails/r_rosea-1.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/r_rosea-2.jpg"><img src="/assets/img/thumbnails/r_rosea-2.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/r_rosea-3.jpg"><img src="/assets/img/thumbnails/r_rosea-3.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/r_rosea-4.jpg"><img src="/assets/img/thumbnails/r_rosea-4.jpg" vspace="2" height="150" /></a>
+</div></details>
+
+
 
 <details><summary><img src="/assets/img/thumbnails/r_armeniacus-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Rubus armeniacus</strong>
 (<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=10319">Calflora</a> | 
@@ -1093,6 +1223,23 @@ Species documented to date (4/9/2020):<br />
 <a href="/assets/img/s_media-5.jpg"><img src="/assets/img/thumbnails/s_media-5.jpg" vspace="2" height="150" /></a>
 </div></details>
 
+<details><summary><img src="/assets/img/thumbnails/t_parthenium-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Tanacetum parthenium</strong>
+(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=7919">Calflora</a> | 
+<a href="https://pfaf.org/user/Plant.aspx?LatinName=Tanacetum+parthenium">PFAF</a> |
+<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=5215">Jepson</a>)</summary>
+<div style="padding-left: 2em">
+<strong>Common name(s):</strong> Feverfew<br />
+<strong>Historic household popularity:</strong> High<br />
+<strong>Comment:</strong> Mom planted feverfew at some point, and now its kinda doing its own thing.  The slowly spreading patch is right next to the cactus pot near the studio back deck.<br />
+<strong>Edibility:</strong> It sounds like there is some limited use for the dried flowers in flavoring food, and the leaves impart a certain bitterness. Note that the leaves can cause irritation to the mouth of consumed raw.<br />
+<strong>Medicinal Uses:</strong> A well-reputed medicinal herb.  Commonly used to treat headaches and arthritis, as well as colds and fevers.<br />
+<strong>Distribution:</strong> Not native to California.  Native to Europe and Asia.<br />
+<strong>Date observed:</strong> 4/10/2020<br />
+<a href="/assets/img/t_parthenium-1.jpg"><img src="/assets/img/thumbnails/t_parthenium-1.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/t_parthenium-2.jpg"><img src="/assets/img/thumbnails/t_parthenium-2.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/t_parthenium-3.jpg"><img src="/assets/img/thumbnails/t_parthenium-3.jpg" vspace="2" height="150" /></a>
+</div></details>
+
 <details><summary><img src="/assets/img/thumbnails/t_officinale-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Taraxacum officinale</strong>
 (<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=7922">Calflora</a> | 
 <a href="https://pfaf.org/user/plant.aspx?LatinName=Taraxacum+officinale">PFAF</a>)</summary>
@@ -1134,6 +1281,44 @@ Species documented to date (4/9/2020):<br />
 <a href="/assets/img/t_erythrospermum-7.jpg"><img src="/assets/img/thumbnails/t_erythrospermum-7.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/t_erythrospermum-8.jpg"><img src="/assets/img/thumbnails/t_erythrospermum-8.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/t_erythrospermum-9.jpg"><img src="/assets/img/thumbnails/t_erythrospermum-9.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/t_erythrospermum-10.jpg"><img src="/assets/img/thumbnails/t_erythrospermum-10.jpg" vspace="2" height="150" /></a>
+</div></details>
+
+<details><summary><img src="/assets/img/thumbnails/torilis-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Torilis sp.</strong></summary>
+<div style="padding-left: 2em">
+<strong>Common name(s):</strong> Hedgeparsley<br />
+<strong>Historic household popularity:</strong> Unknown<br />
+<strong>Comment:</strong> This is either t. nodosa or t. arvensis.  Time will tell.<br />
+<strong>Edibility:</strong><br />
+<strong>Medicinal Uses:</strong><br />
+<strong>Distribution:</strong> Not native to California.<br />
+<strong>Date observed:</strong> 4/8/2020<br />
+<a href="/assets/img/torilis-1.jpg"><img src="/assets/img/thumbnails/torilis-1.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/torilis-2.jpg"><img src="/assets/img/thumbnails/torilis-2.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/torilis-3.jpg"><img src="/assets/img/thumbnails/torilis-3.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/torilis-4.jpg"><img src="/assets/img/thumbnails/torilis-4.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/torilis-5.jpg"><img src="/assets/img/thumbnails/torilis-5.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/torilis-6.jpg"><img src="/assets/img/thumbnails/torilis-6.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/torilis-7.jpg"><img src="/assets/img/thumbnails/torilis-7.jpg" vspace="2" height="150" /></a>
+</div></details>
+
+<details><summary><img src="/assets/img/thumbnails/t_hirtum-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Trifolium hirtum</strong>
+(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=8081">Calflora</a> | 
+<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=47096">Jepson</a>)</summary>
+<div style="padding-left: 2em">
+<strong>Common name(s):</strong> Rose Clover<br />
+<strong>Historic household popularity:</strong> Unknown<br />
+<strong>Comment:</strong> There are a couple of t. hirtum plants growing in the front yard, around the wine barrel next to the Japanese maple.<br />
+<strong>Edibility:</strong> Trifolium is a large genus, and many trifolium spp. are edible.  However, others are not recommended, and I can't find any info on t. hirtum specifically.<br />
+<strong>Medicinal Uses:</strong> I can't find any.<br />
+<strong>Distribution:</strong> Not native to California. Native to Europe, North Africa, and West Asia.<br />
+<strong>Date observed:</strong> 4/11/2020<br />
+<a href="/assets/img/t_hirtum-1.jpg"><img src="/assets/img/thumbnails/t_hirtum-1.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/t_hirtum-2.jpg"><img src="/assets/img/thumbnails/t_hirtum-2.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/t_hirtum-3.jpg"><img src="/assets/img/thumbnails/t_hirtum-3.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/t_hirtum-4.jpg"><img src="/assets/img/thumbnails/t_hirtum-4.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/t_hirtum-5.jpg"><img src="/assets/img/thumbnails/t_hirtum-5.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/t_hirtum-6.jpg"><img src="/assets/img/thumbnails/t_hirtum-6.jpg" vspace="2" height="150" /></a>
 </div></details>
 
 <details><summary><img src="/assets/img/thumbnails/u_dioica-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Urtica dioica</strong>
@@ -1169,6 +1354,23 @@ Species documented to date (4/9/2020):<br />
 <a href="/assets/img/v_persica-6.jpg"><img src="/assets/img/thumbnails/v_persica-6.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/v_persica-7.jpg"><img src="/assets/img/thumbnails/v_persica-7.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/v_persica-8.jpg"><img src="/assets/img/thumbnails/v_persica-8.jpg" vspace="2" height="150" /></a>
+</div></details>
+
+<details><summary><img src="/assets/img/thumbnails/v_sativa-2.jpg" loading="eager" vspace="2" height="100" /> <strong>Vicia sativa</strong>
+(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=8446">Calflora</a> |
+<a href="https://pfaf.org/user/Plant.aspx?LatinName=Vicia+sativa">PFAF</a> |
+<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=48097">Jepson</a>)</summary>
+<div style="padding-left: 2em">
+<strong>Common name(s):</strong> Spring Vetch; Garden Vetch<br />
+<strong>Historic household popularity:</strong> Unknown<br />
+<strong>Comment:</strong> It took me a little while to realize we have vetch growing in our yard -- there isn't much of it.  But there are a couple little sprouts here and there. Fix that nitrogen!<br />
+<strong>Edibility:</strong> Vetch is apparently one of the oldest cultivated food crops, going back something like 10,000-15,000 years!  It eventually fell out of favor though, being mostly replaced by other crops.  The young leaves, shoots, and pods can be eaten cooked, and reportedly the seed is very high in protein and can be cooked and eaten as well (like, pressure coooked), though does contain some toxins that should be properly leached / cooked out (but in any case isn't supposed to taste great). The leaf shoots do taste great though.  <a href="https://www.wildfooduk.com/edible-wild-plants/vetch/">Here</a> is some info, and <a href="https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/vicia-sativa">this</a> article snippet says that well cooked v. sativa seeds have no detectable toxins of concern.  I saw a suggestion to make vetch tip pesto, which sounds like a great idea!  <a href="https://www.sarcraft.com/news/2018/4/25/wildediblewednesday-425-common-vetch">Here</a> is another great post on v. sativa uses.<br />
+<strong>Medicinal Uses:</strong> Can be used as an antiseptic poultice on wounds and for treating some skin problems like eczema.<br />
+<strong>Distribution:</strong> Not native to California. Native to Europe, North Africa, and West Asia.<br />
+<strong>Date observed:</strong> 4/10/2020<br />
+<a href="/assets/img/v_sativa-1.jpg"><img src="/assets/img/thumbnails/v_sativa-1.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/v_sativa-2.jpg"><img src="/assets/img/thumbnails/v_sativa-2.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/v_sativa-3.jpg"><img src="/assets/img/thumbnails/v_sativa-3.jpg" vspace="2" height="150" /></a>
 </div></details>
 
 <details><summary><img src="/assets/img/thumbnails/z_aethiopica-2.jpg" loading="eager" vspace="2" height="100" /> <strong>Zantedeschia aethiopica</strong>
