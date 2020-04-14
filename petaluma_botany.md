@@ -15,25 +15,13 @@ permalink: /botany/petaluma
       content: "+";
       padding-right: 0.5em;
       font-size: 1.5em;
+      /*vertical-align: 130%;
       /*display: inline-block;
       transform: rotate(-90deg);*/
   }
   details[open] > summary:before {
     content: "\2212";
   }
-  /*.sp_heading {
-      width: 50%;
-      border: none;
-      border-collapse: collapse;
-      border-spacing: 0;
-      display: inline-table;
-  }
-  .sp_heading td {
-      padding: 0;
-      margin: 0;
-      vertical-align: top;
-      border: none;
-  }*/
 </style>
 
 Botanical Encyclopedia of my Petaluma yard (aka the Lee Farm)!
@@ -47,36 +35,28 @@ Species documented to date (4/11/2020):<br />
 
 <div style="padding-left: 1em">
 
-<!--<details><summary><table class="sp_heading"><tr><td width="130"><img src="/assets/img/thumbnails/a_mollis-1.jpg" loading="eager" vspace="2" height="100" /></td><td style="padding-left:1em"><strong>Acanthus mollis</strong><br />
-(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=8450">Calflora</a> | 
-<a href="https://pfaf.org/user/Plant.aspx?LatinName=Acanthus+mollis">PFAF</a>)</td></tr></table></summary>
+<details><summary><img src="/assets/img/thumbnails/a_mollis-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Acanthus mollis</strong></u></span><br />
+<i>Bear's Breech</i><br />
+<span style="color: red">Not Edible</span> | <span style="color: grey">Not Medicinal</span> | <span style="color: red">Not Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Bear's Breech<br />
 <strong>Historic household popularity:</strong> Medium-High<br />
 <strong>Comment:</strong> Dad's favorite.  Highly invasive, prolific plant.  Has taken over much of the back yard, with side and front yards following.<br />
 <strong>Edibility:</strong> Unknown<br />
 <strong>Medicinal Uses:</strong> Traditionally used to treat dislocated joints and to sooth burns.<br />
+<strong>Distribution:</strong> Not native to California. Native to the Mediterranean region.<br />
 <strong>Date observed:</strong> 3/30/2020<br />
-<a href="/assets/img/a_mollis-1.jpg"><img src="/assets/img/thumbnails/a_mollis-1.jpg" vspace="2" height="150" /></a>
-</div></details>-->
-
-<details><summary><img src="/assets/img/thumbnails/a_mollis-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Acanthus mollis</strong>
-(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=8450">Calflora</a> | 
-<a href="https://pfaf.org/user/Plant.aspx?LatinName=Acanthus+mollis">PFAF</a>)</summary>
-<div style="padding-left: 2em">
-<strong>Common name(s):</strong> Bear's Breech<br />
-<strong>Historic household popularity:</strong> Medium-High<br />
-<strong>Comment:</strong> Dad's favorite.  Highly invasive, prolific plant.  Has taken over much of the back yard, with side and front yards following.<br />
-<strong>Edibility:</strong> Unknown<br />
-<strong>Medicinal Uses:</strong> Traditionally used to treat dislocated joints and to sooth burns.<br />
-<strong>Date observed:</strong> 3/30/2020<br />
-<a href="/assets/img/a_mollis-1.jpg"><img src="/assets/img/thumbnails/a_mollis-1.jpg" vspace="2" height="150" /></a>
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=8450">Calflora</a> | 
+<a href="https://pfaf.org/user/Plant.aspx?LatinName=Acanthus+mollis">PFAF</a><br />
+<a href="/assets/img/a_mollis-1.jpg"><img src="/assets/img/thumbnails/a_mollis-1.jpg" vspace="2" height="150" /></a><br />
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/a_macrophyllum-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Acer macrophyllum</strong>
-(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=59">Calflora</a> | 
-<a href="https://pfaf.org/user/Plant.aspx?LatinName=Acer+macrophyllum">PFAF</a> |
-<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=11746">Jepson</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/a_macrophyllum-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Acer macrophyllum</strong></u></span><br />
+<i>Big Leaf Maple</i><br />
+<span style="color: green">Edible</span> | <span style="color: grey">Not Medicinal</span> | <span style="color: green">Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Big Leaf Maple<br />
 <strong>Historic household popularity:</strong> Medium-High<br />
@@ -85,12 +65,18 @@ Species documented to date (4/11/2020):<br />
 <strong>Medicinal Uses:</strong> Not a lot of medicinal uses.<br />
 <strong>Distribution:</strong> California native!<br />
 <strong>Date observed:</strong> 4/8/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=59">Calflora</a> | 
+<a href="https://pfaf.org/user/Plant.aspx?LatinName=Acer+macrophyllum">PFAF</a> |
+<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=11746">Jepson</a><br />
 <a href="/assets/img/a_macrophyllum-1.jpg"><img src="/assets/img/thumbnails/a_macrophyllum-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/a_macrophyllum-2.jpg"><img src="/assets/img/thumbnails/a_macrophyllum-2.jpg" loading="lazy" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/a_palmatum-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Acer palmatum</strong>
-(<a href="https://pfaf.org/user/Plant.aspx?LatinName=Acer+palmatum">PFAF</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/a_palmatum-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Acer palmatum</strong></u></span><br />
+<i>Japanese Maple</i><br />
+<span style="color: green">Edible</span> | <span style="color: grey">Not Medicinal</span> | <span style="color: red">Not Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Japanese Maple<br />
 <strong>Historic household popularity:</strong> High<br />
@@ -99,13 +85,16 @@ Species documented to date (4/11/2020):<br />
 <strong>Medicinal Uses:</strong> None known.<br />
 <strong>Distribution:</strong> Not native to California. Native to Japan.<br />
 <strong>Date observed:</strong> 4/10/2020<br />
+<strong>Additonal references:</strong>
+<a href="https://pfaf.org/user/Plant.aspx?LatinName=Acer+palmatum">PFAF</a><br />
 <a href="/assets/img/a_palmatum-1.jpg"><img src="/assets/img/thumbnails/a_palmatum-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/a_palmatum-2.jpg"><img src="/assets/img/thumbnails/a_palmatum-2.jpg" loading="lazy" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/a_neapolitanum-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Allium neapolitanum</strong>
-(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=214">Calflora</a> | 
-<a href="https://pfaf.org/user/plant.aspx?LatinName=Allium+neapolitanum">PFAF</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/a_neapolitanum-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Allium neapolitanum</strong></u></span><br />
+<i>Naples Garlic</i><br />
+<span style="color: green">Edible</span> | <span style="color: grey">Not Medicinal</span> | <span style="color: red">Not Native</span>
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> White Garlic; Naples Garlic; False Garlic (and many more)<br />
 <strong>Historic household popularity:</strong> Unknown<br />
@@ -114,6 +103,9 @@ Species documented to date (4/11/2020):<br />
 <strong>Medicinal Uses:</strong> Nutritional value.<br />
 <strong>Distribution:</strong> Not native to California.  Native to the Medditerranean Region.<br />
 <strong>Date observed:</strong> 3/30/2020<br />
+<strong>Additonal references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=214">Calflora</a> | 
+<a href="https://pfaf.org/user/plant.aspx?LatinName=Allium+neapolitanum">PFAF</a><br />
 <a href="/assets/img/a_neapolitanum-1.jpg"><img src="/assets/img/thumbnails/a_neapolitanum-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/a_neapolitanum-2.jpg"><img src="/assets/img/thumbnails/a_neapolitanum-2.jpg" loading="lazy" vspace="2" height="150" /></a>
 <a href="/assets/img/a_neapolitanum-3.jpg"><img src="/assets/img/thumbnails/a_neapolitanum-3.jpg" loading="lazy" vspace="2" height="150" /></a>
@@ -123,9 +115,10 @@ Species documented to date (4/11/2020):<br />
 <a href="/assets/img/a_neapolitanum-7.jpg"><img src="/assets/img/thumbnails/a_neapolitanum-7.jpg" loading="lazy" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/a_triquetrum-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Allium triquetrum</strong>
-(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=238">Calflora</a> | 
-<a href="https://pfaf.org/user/plant.aspx?latinname=Allium+triquetrum">PFAF</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/a_triquetrum-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Allium triquetrum</strong></u></span><br />
+<i>Angled Onion</i><br />
+<span style="color: green">Edibile</span> | <span style="color: grey">Not Medicinal</span> | <span style="color: red">Not Native</span>
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Snow Bell; Angled Onion; Three-cornered Leek<br />
 <strong>Historic household popularity:</strong> Low<br />
@@ -133,6 +126,9 @@ Species documented to date (4/11/2020):<br />
 <strong>Edibility:</strong> Delicious! We have tried raw (flowers, stalks), sauteed, vinegar pickled, and brine fermented.<br />
 <strong>Medicinal Uses:</strong> Nutritional value.<br />
 <strong>Date observed:</strong> 3/30/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=238">Calflora</a> | 
+<a href="https://pfaf.org/user/plant.aspx?latinname=Allium+triquetrum">PFAF</a><br />
 <a href="/assets/img/a_triquetrum-1.jpg"><img src="/assets/img/thumbnails/a_triquetrum-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/a_triquetrum-2.jpg"><img src="/assets/img/thumbnails/a_triquetrum-2.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/a_triquetrum-3.jpg"><img src="/assets/img/thumbnails/a_triquetrum-3.jpg" vspace="2" height="150" /></a>
@@ -142,10 +138,10 @@ Species documented to date (4/11/2020):<br />
 <a href="/assets/img/a_triquetrum-7.jpg"><img src="/assets/img/thumbnails/a_triquetrum-7.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/a_vineale-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Allium vineale</strong>
-(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-taxon=Allium+vineale">Calflora</a> | 
-<a href="https://pfaf.org/user/plant.aspx?LatinName=Allium+vineale">PFAF</a> |
-<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=12660">Jepson</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/a_vineale-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Allium vineale</strong></u></span><br />
+<i>Crow Garlic</i><br />
+<span style="color: green">Edible</span> | <span style="color: blue">Medicinal</span> | <span style="color: red">Not Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Crow Garlic; Vineyard Onion; Wild Garlic<br />
 <strong>Historic household popularity:</strong> Medium<br />
@@ -154,6 +150,10 @@ Species documented to date (4/11/2020):<br />
 <strong>Medicinal Uses:</strong> Nutritious, but also combats asthma, purifies the blood, reduces blood pressure, and relieves shortness of breath, among other things.<br />
 <strong>Distribution:</strong> Not native to California. Native to Europe, North Africa, and the Middle East.<br />
 <strong>Date observed:</strong> 4/8/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-taxon=Allium+vineale">Calflora</a> | 
+<a href="https://pfaf.org/user/plant.aspx?LatinName=Allium+vineale">PFAF</a> |
+<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=12660">Jepson</a><br />
 <a href="/assets/img/a_vineale-1.jpg"><img src="/assets/img/thumbnails/a_vineale-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/a_vineale-2.jpg"><img src="/assets/img/thumbnails/a_vineale-2.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/a_vineale-3.jpg"><img src="/assets/img/thumbnails/a_vineale-3.jpg" vspace="2" height="150" /></a>
@@ -161,9 +161,10 @@ Species documented to date (4/11/2020):<br />
 <a href="/assets/img/a_vineale-5.jpg"><img src="/assets/img/thumbnails/a_vineale-5.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/a_caucalis-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Anthriscus caucalis</strong>
-(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=396">Calflora</a> | 
-<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=13523">Jepson</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/a_caucalis-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Anthriscus caucalis</strong></u></span><br />
+<i>Bur Chervil</i><br />
+<span style="color: green">Edible</span> | <span style="color: grey">Not Medicinal</span> | <span style="color: red">Not Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Bur Chervil<br />
 <strong>Historic household popularity:</strong> Unknown<br />
@@ -172,6 +173,9 @@ Species documented to date (4/11/2020):<br />
 <strong>Medicinal Uses:</strong> I don't see anything here.<br />
 <strong>Distribution:</strong> Not native to California. Native to parts of Europe and Asia.<br />
 <strong>Date observed:</strong> 4/8/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=396">Calflora</a> | 
+<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=13523">Jepson</a><br />
 <a href="/assets/img/a_caucalis-1.jpg"><img src="/assets/img/thumbnails/a_caucalis-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/a_caucalis-2.jpg"><img src="/assets/img/thumbnails/a_caucalis-2.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/a_caucalis-3.jpg"><img src="/assets/img/thumbnails/a_caucalis-3.jpg" vspace="2" height="150" /></a>
@@ -183,10 +187,10 @@ Species documented to date (4/11/2020):<br />
 <a href="/assets/img/a_caucalis-9.jpg"><img src="/assets/img/thumbnails/a_caucalis-9.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/a_italicum-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Arum italicum</strong>
-(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=730">Calflora</a> | 
-<a href="https://pfaf.org/user/Plant.aspx?LatinName=Arum+italicum">PFAF</a> |
-<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=14303">Jepson</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/a_italicum-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Arum italicum</strong></u></span><br />
+<i>Italian Lords and Ladies</i><br />
+<span style="color: green">Edible</span> | <span style="color: blue">Medicinal</span> | <span style="color: red">Not Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Italian Lords and Ladies<br />
 <strong>Historic household popularity:</strong> Medium<br />
@@ -195,14 +199,19 @@ Species documented to date (4/11/2020):<br />
 <strong>Medicinal Uses:</strong> Little used today.<br />
 <strong>Distribution:</strong> Not native to California. Native to the Mediterranean region.<br />
 <strong>Date observed:</strong> 4/7/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=730">Calflora</a> | 
+<a href="https://pfaf.org/user/Plant.aspx?LatinName=Arum+italicum">PFAF</a> |
+<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=14303">Jepson</a><br />
 <a href="/assets/img/a_italicum-1.jpg"><img src="/assets/img/thumbnails/a_italicum-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/a_italicum-5.jpg"><img src="/assets/img/thumbnails/a_italicum-5.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/a_italicum-6.jpg"><img src="/assets/img/thumbnails/a_italicum-6.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/a_palaestinum-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Arum palaestinum</strong>
-(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=10504">Calflora</a> |
-<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=88886">Jepson</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/a_palaestinum-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Arum palaestinum</strong></u></span><br />
+<i>Solomon's Lily</i><br />
+<span style="color: green">Edible</span> | <span style="color: blue">Medicinal</span> | <span style="color: red">Not Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Solomon's Lily; Black Calla Lily; Priest's Hood<br />
 <strong>Historic household popularity:</strong> Medium<br />
@@ -211,14 +220,18 @@ Species documented to date (4/11/2020):<br />
 <strong>Medicinal Uses:</strong> Seems to be fairly well studied and has been used for many centuries in the middle east to improve bone strength and treat cancer and parasitic infections, among other things. <a href="https://www.naturalmedicinejournal.com/journal/2019-02/arum-palaestinum-food-medicine">Here</a> is some info, and <a href="https://ndnr.com/pain-medicine/arum-palaestinum-an-anticarcinogenic-plant-with-promise/">here</a> is a bunch more!<br />
 <strong>Distribution:</strong> Not native to California. Native to the Mediterranean region.<br />
 <strong>Date observed:</strong> 4/8/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=10504">Calflora</a> |
+<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=88886">Jepson</a><br />
 <a href="/assets/img/a_palaestinum-1.jpg"><img src="/assets/img/thumbnails/a_palaestinum-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/a_palaestinum-2.jpg"><img src="/assets/img/thumbnails/a_palaestinum-2.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/a_palaestinum-3.jpg"><img src="/assets/img/thumbnails/a_palaestinum-3.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/b_officinalis-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Borago officinalis</strong>
-(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=1110">Calflora</a> | 
-<a href="https://pfaf.org/user/Plant.aspx?LatinName=Borago+officinalis">PFAF</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/b_officinalis-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Borago officinalis</strong></u></span><br />
+<i>Borage</i><br />
+<span style="color: green">Edible</span> | <span style="color: blue">Medicinal</span> | <span style="color: red">Not Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Borage<br />
 <strong>Historic household popularity:</strong> High<br />
@@ -227,15 +240,19 @@ Species documented to date (4/11/2020):<br />
 <strong>Medicinal Uses:</strong> Apparently used to dispel melancholy and induce euphoria, and to treat a variety of ailments.<br />
 <strong>Distribution:</strong> Not native to California.  Native to the Medditerranean Region.<br />
 <strong>Date observed:</strong> 3/31/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=1110">Calflora</a> | 
+<a href="https://pfaf.org/user/Plant.aspx?LatinName=Borago+officinalis">PFAF</a><br />
 <a href="/assets/img/b_officinalis-1.jpg"><img src="/assets/img/thumbnails/b_officinalis-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/b_officinalis-2.jpg"><img src="/assets/img/thumbnails/b_officinalis-2.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/b_officinalis-3.jpg"><img src="/assets/img/thumbnails/b_officinalis-3.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/b_officinalis-4.jpg"><img src="/assets/img/thumbnails/b_officinalis-4.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/b_diandrus-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Bromus diandrus</strong>
-(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=1200">Calflora</a> | 
-<a href="https://pfaf.org/user/Plant.aspx?LatinName=Bromus+rigidus">PFAF</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/b_diandrus-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Bromus diandrus</strong></u></span><br />
+<i>Ripgut Brome</i><br />
+<span style="color: green">Edible</span> | <span style="color: grey">Not Medicinal</span> | <span style="color: red">Not Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Ripgut Brome<br />
 <strong>Historic household popularity:</strong> Unknown<br />
@@ -244,6 +261,9 @@ Species documented to date (4/11/2020):<br />
 <strong>Medicinal Uses:</strong> None known.<br />
 <strong>Distribution:</strong> Not native to California. Native to the Mediterranean region.<br />
 <strong>Date observed:</strong> 4/6/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=1200">Calflora</a> | 
+<a href="https://pfaf.org/user/Plant.aspx?LatinName=Bromus+rigidus">PFAF</a><br />
 <a href="/assets/img/b_diandrus-1.jpg"><img src="/assets/img/thumbnails/b_diandrus-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/b_diandrus-2.jpg"><img src="/assets/img/thumbnails/b_diandrus-2.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/b_diandrus-3.jpg"><img src="/assets/img/thumbnails/b_diandrus-3.jpg" vspace="2" height="150" /></a>
@@ -255,9 +275,10 @@ Species documented to date (4/11/2020):<br />
 <a href="/assets/img/b_diandrus-9.jpg"><img src="/assets/img/thumbnails/b_diandrus-9.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/c_menziesii-2.jpg" loading="eager" vspace="2" height="100" /> <strong>Calandrinia menziesii</strong>
-(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=13205">Calflora</a> | 
-<a href="https://pfaf.org/user/Plant.aspx?LatinName=Calandrinia+ciliata+menziesii">PFAF</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/c_menziesii-2.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Calandrinia menziesii</strong></u></span><br />
+<i>Red Maids</i><br />
+<span style="color: green">Edible</span> | <span style="color: grey">Not Medicinal</span> | <span style="color: green">Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Red Maids<br />
 <strong>Historic household popularity:</strong> Unknown<br />
@@ -266,6 +287,9 @@ Species documented to date (4/11/2020):<br />
 <strong>Medicinal Uses:</strong> None known.<br />
 <strong>Distribution:</strong> California Native!<br />
 <strong>Date observed:</strong> 4/1/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=13205">Calflora</a> | 
+<a href="https://pfaf.org/user/Plant.aspx?LatinName=Calandrinia+ciliata+menziesii">PFAF</a><br />
 <a href="/assets/img/c_menziesii-1.jpg"><img src="/assets/img/thumbnails/c_menziesii-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/c_menziesii-2.jpg"><img src="/assets/img/thumbnails/c_menziesii-2.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/c_menziesii-3.jpg"><img src="/assets/img/thumbnails/c_menziesii-3.jpg" vspace="2" height="150" /></a>
@@ -275,9 +299,10 @@ Species documented to date (4/11/2020):<br />
 <a href="/assets/img/c_menziesii-7.jpg"><img src="/assets/img/thumbnails/c_menziesii-7.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/c_officinalis-2.jpg" loading="eager" vspace="2" height="100" /> <strong>Calendula officinalis</strong>
-(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=1253">Calflora</a> | 
-<a href="https://pfaf.org/user/Plant.aspx?LatinName=Calendula+officinalis">PFAF</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/c_officinalis-2.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Calendula officinalis</strong></u></span><br />
+<i>Pot Marigold</i><br />
+<span style="color: green">Edible</span> | <span style="color: blue">Medicinal</span> | <span style="color: red">Not Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Pot Marigold<br />
 <strong>Historic household popularity:</strong> High<br />
@@ -286,6 +311,9 @@ Species documented to date (4/11/2020):<br />
 <strong>Medicinal Uses:</strong> Well known medicinal plant with a variety of uses, including to treat skin problems (including wart removal), and to treat fever and chronic infections.<br />
 <strong>Distribution:</strong> Not native to California. Likely native to southern Europe.<br />
 <strong>Date observed:</strong> 4/1/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=1253">Calflora</a> | 
+<a href="https://pfaf.org/user/Plant.aspx?LatinName=Calendula+officinalis">PFAF</a><br />
 <a href="/assets/img/c_officinalis-1.jpg"><img src="/assets/img/thumbnails/c_officinalis-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/c_officinalis-2.jpg"><img src="/assets/img/thumbnails/c_officinalis-2.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/c_officinalis-3.jpg"><img src="/assets/img/thumbnails/c_officinalis-3.jpg" vspace="2" height="150" /></a>
@@ -296,9 +324,10 @@ Species documented to date (4/11/2020):<br />
 <a href="/assets/img/c_officinalis-8.jpg"><img src="/assets/img/thumbnails/c_officinalis-8.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/c_hirsuta-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Cardamine hirsuta</strong>
-(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=1486">Calflora</a> | 
-<a href="https://pfaf.org/user/plant.aspx?LatinName=Cardamine+hirsuta">PFAF</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/c_hirsuta-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Cardamine hirsuta</strong></u></span><br />
+<i>Hairy Bittercress</i><br />
+<span style="color: green">Edible</span> | <span style="color: grey">Not Medicinal</span> | <span style="color: red">Not Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Hairy Bittercress<br />
 <strong>Historic household popularity:</strong> Unknown<br />
@@ -307,6 +336,9 @@ Species documented to date (4/11/2020):<br />
 <strong>Medicinal Uses:</strong> None known.<br />
 <strong>Distribution:</strong> Not native to California. Native to Europe, North Africa.<br />
 <strong>Date observed:</strong> 4/2/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=1486">Calflora</a> | 
+<a href="https://pfaf.org/user/plant.aspx?LatinName=Cardamine+hirsuta">PFAF</a><br />
 <a href="/assets/img/c_hirsuta-1.jpg"><img src="/assets/img/thumbnails/c_hirsuta-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/c_hirsuta-2.jpg"><img src="/assets/img/thumbnails/c_hirsuta-2.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/c_hirsuta-3.jpg"><img src="/assets/img/thumbnails/c_hirsuta-3.jpg" vspace="2" height="150" /></a>
@@ -319,11 +351,10 @@ Species documented to date (4/11/2020):<br />
 <a href="/assets/img/c_hirsuta-10.jpg"><img src="/assets/img/thumbnails/c_hirsuta-10.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/c_pycnocephalus-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Carduus pycnocephalus</strong>
-(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=1504">Calflora</a> | 
-<a href="https://pfaf.org/user/Plant.aspx?LatinName=Carduus">PFAF</a> |
-<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=82221">Jepson</a> |
-<a href="http://www.eattheweeds.com/tag/carduus/">eattheweeds</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/c_pycnocephalus-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Carduus pycnocephalus</strong></u></span><br />
+<i>Italian Thistle</i><br />
+<span style="color: green">Edible</span> | <span style="color: blue">Medicinal</span> | <span style="color: red">Not Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Italian Thistle<br />
 <strong>Historic household popularity:</strong> Low<br />
@@ -332,14 +363,20 @@ Species documented to date (4/11/2020):<br />
 <strong>Medicinal Uses:</strong> Other carduus spp. have some listed medicinal uses, which probably apply here as well, but I don't see any specific info.<br />
 <strong>Distribution:</strong> Not native to California. Native to South and East Europe, North Africa, West Asia, and India.<br />
 <strong>Date observed:</strong> 4/7/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=1504">Calflora</a> | 
+<a href="https://pfaf.org/user/Plant.aspx?LatinName=Carduus">PFAF</a> |
+<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=82221">Jepson</a> |
+<a href="http://www.eattheweeds.com/tag/carduus/">eattheweeds</a><br />
 <a href="/assets/img/c_pycnocephalus-1.jpg"><img src="/assets/img/thumbnails/c_pycnocephalus-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/c_pycnocephalus-2.jpg"><img src="/assets/img/thumbnails/c_pycnocephalus-2.jpg" vspace="2" height="150" /></a>
 </div></details>
 
 
-<details><summary><img src="/assets/img/thumbnails/c_perfoliata-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Claytonia perfoliata</strong>
-(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=2244">Calflora</a> | 
-<a href="https://pfaf.org/user/plant.aspx?LatinName=Claytonia+perfoliata">PFAF</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/c_perfoliata-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Claytonia perfoliata</strong></u></span><br />
+<i>Miner's Lettuce</i><br />
+<span style="color: green">Edible</span> | <span style="color: grey">Not Medicinal</span> | <span style="color: green">Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Miner's Lettuce<br />
 <strong>Historic household popularity:</strong> High<br />
@@ -348,6 +385,9 @@ Species documented to date (4/11/2020):<br />
 <strong>Medicinal Uses:</strong> Pretty much just nutritive value.<br />
 <strong>Distribution:</strong> California Native!<br />
 <strong>Date observed:</strong> 4/2/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=2244">Calflora</a> | 
+<a href="https://pfaf.org/user/plant.aspx?LatinName=Claytonia+perfoliata">PFAF</a><br />
 <a href="/assets/img/c_perfoliata-1.jpg"><img src="/assets/img/thumbnails/c_perfoliata-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/c_perfoliata-2.jpg"><img src="/assets/img/thumbnails/c_perfoliata-2.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/c_perfoliata-3.jpg"><img src="/assets/img/thumbnails/c_perfoliata-3.jpg" vspace="2" height="150" /></a>
@@ -355,9 +395,10 @@ Species documented to date (4/11/2020):<br />
 <a href="/assets/img/c_perfoliata-5.jpg"><img src="/assets/img/thumbnails/c_perfoliata-5.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/c_maculatum-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Conium maculatum</strong>
-(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=2317">Calflora</a> | 
-<a href="https://pfaf.org/user/Plant.aspx?LatinName=Conium+maculatum">PFAF</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/c_maculatum-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Conium maculatum</strong></u></span><br />
+<i>Poison Hemlock</i><br />
+<span style="color: red">Not Edible</span> | <span style="color: blue">Medicinal</span> | <span style="color: red">Not Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Poison Hemlock<br />
 <strong>Historic household popularity:</strong> Low<br />
@@ -366,15 +407,19 @@ Species documented to date (4/11/2020):<br />
 <strong>Medicinal Uses:</strong> C. maculatum does have a long history of medicinal use, but it is not commonly employed today due to its known toxicity.<br />
 <strong>Distribution:</strong> Not native to California. Native to Europe and North Africa.<br />
 <strong>Date observed:</strong> 4/6/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=2317">Calflora</a> | 
+<a href="https://pfaf.org/user/Plant.aspx?LatinName=Conium+maculatum">PFAF</a><br />
 <a href="/assets/img/c_maculatum-1.jpg"><img src="/assets/img/thumbnails/c_maculatum-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/c_maculatum-2.jpg"><img src="/assets/img/thumbnails/c_maculatum-2.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/c_maculatum-3.jpg"><img src="/assets/img/thumbnails/c_maculatum-3.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/c_maculatum-4.jpg"><img src="/assets/img/thumbnails/c_maculatum-4.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/c_arvensis-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Convolvulus arvensis</strong>
-(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=2321">Calflora</a> | 
-<a href="https://pfaf.org/user/plant.aspx?LatinName=Claytonia+perfoliata">PFAF</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/c_arvensis-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Convolvulus arvensis</strong></u></span><br />
+<i>Field Bindweed</i><br />
+<span style="color: green">Edible</span> | <span style="color: blue">Medicinal</span> | <span style="color: red">Not Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Field Bindweed<br />
 <strong>Historic household popularity:</strong> Unknown<br />
@@ -383,15 +428,19 @@ Species documented to date (4/11/2020):<br />
 <strong>Medicinal Uses:</strong> The root, leaves, and flowers are used to treat fevers and wounds.<br />
 <strong>Distribution:</strong> Not native to California. Native to Europe and Asia.<br />
 <strong>Date observed:</strong> 4/2/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=2321">Calflora</a> | 
+<a href="https://pfaf.org/user/plant.aspx?LatinName=Claytonia+perfoliata">PFAF</a><br />
 <a href="/assets/img/c_arvensis-1.jpg"><img src="/assets/img/thumbnails/c_arvensis-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/c_arvensis-2.jpg"><img src="/assets/img/thumbnails/c_arvensis-2.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/c_arvensis-3.jpg"><img src="/assets/img/thumbnails/c_arvensis-3.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/c_arvensis-4.jpg"><img src="/assets/img/thumbnails/c_arvensis-4.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/c_lacteus-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Cotoneaster lacteus</strong>
-(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=8714">Calflora</a> |
-<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=103839">Jepson</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/c_lacteus-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Cotoneaster lacteus</strong></u></span><br />
+<i>Milkflower Cotoneaster</i><br />
+<span style="color: red">Not Edible</span> | <span style="color: grey">Not Medicinal</span> | <span style="color: red">Not Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Milkflower Cotoneaster<br />
 <strong>Historic household popularity:</strong> Unknown<br />
@@ -400,14 +449,18 @@ Species documented to date (4/11/2020):<br />
 <strong>Medicinal Uses:</strong> Some species of cotoneaster have limited medicinal use, but not much info here.<br />
 <strong>Distribution:</strong> Not native to California. Native to China.<br />
 <strong>Date observed:</strong> 4/8/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=8714">Calflora</a> |
+<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=103839">Jepson</a><br />
 <a href="/assets/img/c_lacteus-1.jpg"><img src="/assets/img/thumbnails/c_lacteus-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/c_lacteus-2.jpg"><img src="/assets/img/thumbnails/c_lacteus-2.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/c_lacteus-3.jpg"><img src="/assets/img/thumbnails/c_lacteus-3.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/c_pannosus-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Cotoneaster pannosus</strong>
-(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=2402">Calflora</a> |
-<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=20517">Jepson</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/c_pannosus-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Cotoneaster pannosus</strong></u></span><br />
+<i>Silverleaf Cotoneaster</i><br />
+<span style="color: red">Not Edible</span> | <span style="color: grey">Not Medicinal</span> | <span style="color: red">Not Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Silverleaf Cotoneaster<br />
 <strong>Historic household popularity:</strong> Unknown<br />
@@ -416,14 +469,18 @@ Species documented to date (4/11/2020):<br />
 <strong>Medicinal Uses:</strong> Some species of cotoneaster have limited medicinal use, but not much info here.<br />
 <strong>Distribution:</strong> Not native to California. Native to south central China.<br />
 <strong>Date observed:</strong> 4/8/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=2402">Calflora</a> |
+<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=20517">Jepson</a><br />
 <a href="/assets/img/c_pannosus-1.jpg"><img src="/assets/img/thumbnails/c_pannosus-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/c_pannosus-2.jpg"><img src="/assets/img/thumbnails/c_pannosus-2.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/c_pannosus-3.jpg"><img src="/assets/img/thumbnails/c_pannosus-3.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/d_odorata-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Delairea odorata</strong>
-(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=9623">Calflora</a> |
-<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=80449">Jepson</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/d_odorata-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Delairea odorata</strong></u></span><br />
+<i>Cape Ivy</i><br />
+<span style="color: red">Not Edible</span> | <span style="color: grey">Not Medicinal</span> | <span style="color: red">Not Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Cape Ivy<br />
 <strong>Historic household popularity:</strong> Unknown<br />
@@ -432,14 +489,18 @@ Species documented to date (4/11/2020):<br />
 <strong>Medicinal Uses:</strong> Not seeing anything here.<br />
 <strong>Distribution:</strong> Not native to California. Native to Southern Africa.<br />
 <strong>Date observed:</strong> 4/8/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=9623">Calflora</a> |
+<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=80449">Jepson</a><br />
 <a href="/assets/img/d_odorata-1.jpg"><img src="/assets/img/thumbnails/d_odorata-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/d_odorata-2.jpg"><img src="/assets/img/thumbnails/d_odorata-2.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/d_odorata-3.jpg"><img src="/assets/img/thumbnails/d_odorata-3.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/e_ciliatum-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Epilobium ciliatum</strong>
-(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=2988">Calflora</a> | 
-<a href="https://pfaf.org/user/Plant.aspx?LatinName=Erodium+moschatum">PFAF</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/e_ciliatum-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Epilobium ciliatum</strong></u></span><br />
+<i>Slender Willow Herb</i><br />
+<span style="color: red">Not Edible</span> | <span style="color: blue">Medicinal</span> | <span style="color: green">Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Slender Willow Herb<br />
 <strong>Historic household popularity:</strong> Unknown<br />
@@ -448,6 +509,9 @@ Species documented to date (4/11/2020):<br />
 <strong>Medicinal Uses:</strong> There are a few references to the plant being used by Native Americans to relieve muscle cramps and for diahrroea.<br />
 <strong>Distribution:</strong> California native!<br />
 <strong>Date observed:</strong> 4/6/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=2988">Calflora</a> | 
+<a href="https://pfaf.org/user/Plant.aspx?LatinName=Erodium+moschatum">PFAF</a><br />
 <a href="/assets/img/e_ciliatum-1.jpg"><img src="/assets/img/thumbnails/e_ciliatum-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/e_ciliatum-2.jpg"><img src="/assets/img/thumbnails/e_ciliatum-2.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/e_ciliatum-3.jpg"><img src="/assets/img/thumbnails/e_ciliatum-3.jpg" vspace="2" height="150" /></a>
@@ -456,9 +520,10 @@ Species documented to date (4/11/2020):<br />
 <a href="/assets/img/e_ciliatum-6.jpg"><img src="/assets/img/thumbnails/e_ciliatum-6.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/e_moschatum-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Erodium moschatum</strong>
-(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=3452">Calflora</a> | 
-<a href="https://pfaf.org/user/Plant.aspx?LatinName=Erodium+moschatum">PFAF</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/e_moschatum-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Erodium moschatum</strong></u></span><br />
+<i>White-stemmed Filaree</i><br />
+<span style="color: green">Edible</span> | <span style="color: blue">Medicinal</span> | <span style="color: red">Not Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> White-stemmed Filaree; Musky Stork's Bill<br />
 <strong>Historic household popularity:</strong> Unknown<br />
@@ -467,6 +532,9 @@ Species documented to date (4/11/2020):<br />
 <strong>Medicinal Uses:</strong> A tincture of this plant is reportedly used to treat dysentery.<br />
 <strong>Distribution:</strong> Not native to California. Native to most of Europe, Asia, and North Africa.<br />
 <strong>Date observed:</strong> 4/3/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=3452">Calflora</a> | 
+<a href="https://pfaf.org/user/Plant.aspx?LatinName=Erodium+moschatum">PFAF</a><br />
 <a href="/assets/img/e_moschatum-1.jpg"><img src="/assets/img/thumbnails/e_moschatum-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/e_moschatum-2.jpg"><img src="/assets/img/thumbnails/e_moschatum-2.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/e_moschatum-3.jpg"><img src="/assets/img/thumbnails/e_moschatum-3.jpg" vspace="2" height="150" /></a>
@@ -475,9 +543,10 @@ Species documented to date (4/11/2020):<br />
 <a href="/assets/img/e_moschatum-6.jpg"><img src="/assets/img/thumbnails/e_moschatum-6.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/e_californica-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Eschscholzia californica</strong>
-(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=3512">Calflora</a> | 
-<a href="https://pfaf.org/user/Plant.aspx?LatinName=Eschscholzia+californica">PFAF</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/e_californica-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Eschscholzia californica</strong></u></span><br />
+<i>California Poppy</i><br />
+<span style="color: green">Edible</span> | <span style="color: blue">Medicinal</span> | <span style="color: green">Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> California Poppy<br />
 <strong>Historic household popularity:</strong> High<br />
@@ -486,6 +555,9 @@ Species documented to date (4/11/2020):<br />
 <strong>Medicinal Uses:</strong> Apparently has a similar but more mild effect as the opium poppy.  Normalizes psychological function, especially in children.<br />
 <strong>Distribution:</strong> California Native!<br />
 <strong>Date observed:</strong> 4/1/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=3512">Calflora</a> | 
+<a href="https://pfaf.org/user/Plant.aspx?LatinName=Eschscholzia+californica">PFAF</a><br />
 <a href="/assets/img/e_californica-1.jpg"><img src="/assets/img/thumbnails/e_californica-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/e_californica-2.jpg"><img src="/assets/img/thumbnails/e_californica-2.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/e_californica-3.jpg"><img src="/assets/img/thumbnails/e_californica-3.jpg" vspace="2" height="150" /></a>
@@ -494,7 +566,10 @@ Species documented to date (4/11/2020):<br />
 <a href="/assets/img/e_californica-6.jpg"><img src="/assets/img/thumbnails/e_californica-6.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/e_peplus-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Euphorbia peplus</strong> (<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=3561">Calflora</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/e_peplus-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Euphorbia peplus</strong></u></span><br />
+<i>Petty Spurge</i><br />
+<span style="color: red">Not Edible</span> | <span style="color: blue">Medicinal</span> | <span style="color: red">Not Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Petty Spurge<br />
 <strong>Historic household popularity:</strong> Unknown<br />
@@ -503,6 +578,8 @@ Species documented to date (4/11/2020):<br />
 <strong>Medicinal Uses:</strong> E. peplus is known for treating a variety of skin lesions, including skin cancer, warts, and sunspots.  The mikly sap it exudes from the leaves and stalk when broken is toxic to human tissues (and in a variety of types of cancer cells, in particular), and will effectively burn off areas where it is applied.  The active ingredient in the sap is Ingenol Mebutate.  Euphorbia peplus, amazingly, has its own website -- <a href="http://www.euphorbiapeplus.com/">check it out</a>!<br />
 <strong>Distribution:</strong> Not native to California. Native to Europe, North Africa, West Asia.<br />
 <strong>Date observed:</strong> 3/31/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=3561">Calflora</a><br />
 <a href="/assets/img/e_peplus-1.jpg"><img src="/assets/img/thumbnails/e_peplus-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/e_peplus-2.jpg"><img src="/assets/img/thumbnails/e_peplus-2.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/e_peplus-3.jpg"><img src="/assets/img/thumbnails/e_peplus-3.jpg" vspace="2" height="150" /></a>
@@ -514,9 +591,10 @@ Species documented to date (4/11/2020):<br />
 <a href="/assets/img/e_peplus-9.jpg"><img src="/assets/img/thumbnails/e_peplus-9.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/g_aparine-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Galium aparine</strong>
-(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=3669">Calflora</a> |
-<a href="https://pfaf.org/user/Plant.aspx?LatinName=Galium+aparine">PFAF</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/g_aparine-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Galium aparine</strong></u></span><br />
+<i>Cleavers</i><br />
+<span style="color: green">Edible</span> | <span style="color: blue">Medicinal</span> | <span style="color: green">Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Cleavers; Bedstraw; Catchweed<br />
 <strong>Historic household popularity:</strong> Low<br />
@@ -525,6 +603,9 @@ Species documented to date (4/11/2020):<br />
 <strong>Medicinal Uses:</strong> Long history of medicinal use, in particular for skin problems and general detoxifying (cancer), along with a bunch of other stuff.  The genus is of interest to the pharmaceutical industry.<br />
 <strong>Distribution:</strong> California Native!<br />
 <strong>Date observed:</strong> 3/30/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=3669">Calflora</a> |
+<a href="https://pfaf.org/user/Plant.aspx?LatinName=Galium+aparine">PFAF</a><br />
 <a href="/assets/img/g_aparine-1.jpg"><img src="/assets/img/thumbnails/g_aparine-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/g_aparine-2.jpg"><img src="/assets/img/thumbnails/g_aparine-2.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/g_aparine-3.jpg"><img src="/assets/img/thumbnails/g_aparine-3.jpg" vspace="2" height="150" /></a>
@@ -532,9 +613,10 @@ Species documented to date (4/11/2020):<br />
 <a href="/assets/img/g_aparine-5.jpg"><img src="/assets/img/thumbnails/g_aparine-5.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/g_dissectum-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Geranium dissectum</strong>
-(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=3799">Calflora</a> |
-<a href="https://pfaf.org/user/Plant.aspx?LatinName=Geranium+dissectum">PFAF</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/g_dissectum-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Geranium dissectum</strong></u></span><br />
+<i>Cutleaf Geranium</i><br />
+<span style="color: green">Edible</span> | <span style="color: blue">Medicinal</span> | <span style="color: red">Not Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Cutleaf Geranium; Cutleaf Crane's Bill<br />
 <strong>Historic household popularity:</strong> Medium<br />
@@ -543,6 +625,9 @@ Species documented to date (4/11/2020):<br />
 <strong>Medicinal Uses:</strong> An infusion of the whole plant can be used to treat diahrroea, internal bleeding, and more.<br />
 <strong>Distribution:</strong> Not native to California. Native to Europe.<br />
 <strong>Date observed:</strong> 4/1/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=3799">Calflora</a> |
+<a href="https://pfaf.org/user/Plant.aspx?LatinName=Geranium+dissectum">PFAF</a><br />
 <a href="/assets/img/g_dissectum-1.jpg"><img src="/assets/img/thumbnails/g_dissectum-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/g_dissectum-2.jpg"><img src="/assets/img/thumbnails/g_dissectum-2.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/g_dissectum-3.jpg"><img src="/assets/img/thumbnails/g_dissectum-3.jpg" vspace="2" height="150" /></a>
@@ -553,8 +638,10 @@ Species documented to date (4/11/2020):<br />
 <a href="/assets/img/g_dissectum-8.jpg"><img src="/assets/img/thumbnails/g_dissectum-8.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/g_purpureum-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Geranium purpureum</strong>
-(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=8594">Calflora</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/g_purpureum-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Geranium purpureum</strong></u></span><br />
+<i>Little Robin</i><br />
+<span style="color: red">Not Edible</span> | <span style="color: grey">Not Medicinal</span> | <span style="color: red">Not Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Little Robin; Lesser Herb Robert<br />
 <strong>Historic household popularity:</strong> Unknown<br />
@@ -563,6 +650,8 @@ Species documented to date (4/11/2020):<br />
 <strong>Medicinal Uses:</strong> I can't find much info on g. purpureum uses, other than references to uses of closely related g. robertanium (Herb Robert).<br />
 <strong>Distribution:</strong> Not native to California. Native to Europe, North Africa, and West Asia.<br />
 <strong>Date observed:</strong> 4/1/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=8594">Calflora</a><br />
 <a href="/assets/img/g_purpureum-1.jpg"><img src="/assets/img/thumbnails/g_purpureum-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/g_purpureum-2.jpg"><img src="/assets/img/thumbnails/g_purpureum-2.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/g_purpureum-3.jpg"><img src="/assets/img/thumbnails/g_purpureum-3.jpg" vspace="2" height="150" /></a>
@@ -572,10 +661,10 @@ Species documented to date (4/11/2020):<br />
 <a href="/assets/img/g_purpureum-7.jpg"><img src="/assets/img/thumbnails/g_purpureum-7.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/h_canariensis-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Hedera canariensis</strong>
-(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=8467">Calflora</a> |
-<a href="https://pfaf.org/user/plant.aspx?latinname=hedera">PFAF</a> |
-<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=81236">Jepson</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/h_canariensis-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Hedera canariensis</strong></u></span><br />
+<i>Algerian Ivy</i><br />
+<span style="color: red">Not Edible</span> | <span style="color: blue">Medicinal</span> | <span style="color: red">Not Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Algerian Ivy<br />
 <strong>Historic household popularity:</strong> Low<br />
@@ -584,6 +673,10 @@ Species documented to date (4/11/2020):<br />
 <strong>Medicinal Uses:</strong> There are a variety of medicinal uses of hedera spp., both external and internal.  Some uses include to treat coughs and bronchitis.<br />
 <strong>Distribution:</strong> Not native to California. Native to the Canary Islands and North Africa.<br />
 <strong>Date observed:</strong> 4/7/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=8467">Calflora</a> |
+<a href="https://pfaf.org/user/plant.aspx?latinname=hedera">PFAF</a> |
+<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=81236">Jepson</a><br />
 <a href="/assets/img/h_canariensis-1.jpg"><img src="/assets/img/thumbnails/h_canariensis-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/h_canariensis-2.jpg"><img src="/assets/img/thumbnails/h_canariensis-2.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/h_canariensis-3.jpg"><img src="/assets/img/thumbnails/h_canariensis-3.jpg" vspace="2" height="150" /></a>
@@ -593,10 +686,10 @@ Species documented to date (4/11/2020):<br />
 <a href="/assets/img/h_canariensis-7.jpg"><img src="/assets/img/thumbnails/h_canariensis-7.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/h_helix-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Hedera helix</strong>
-(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=4023">Calflora</a> |
-<a href="https://pfaf.org/user/Plant.aspx?LatinName=Hedera+helix">PFAF</a> |
-<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=27768">Jepson</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/h_helix-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Hedera helix</strong></u></span><br />
+<i>English Ivy</i><br />
+<span style="color: red">Not Edible</span> | <span style="color: blue">Medicinal</span> | <span style="color: red">Not Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> English Ivy; Common Ivy<br />
 <strong>Historic household popularity:</strong> Unkonwn<br />
@@ -605,14 +698,18 @@ Species documented to date (4/11/2020):<br />
 <strong>Medicinal Uses:</strong> There are a variety of medicinal uses, both external and internal.  Some uses include to treat coughs and bronchitis.<br />
 <strong>Distribution:</strong> Not native to California. Native to Europe and West Asia.<br />
 <strong>Date observed:</strong> 4/8/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=4023">Calflora</a> |
+<a href="https://pfaf.org/user/Plant.aspx?LatinName=Hedera+helix">PFAF</a> |
+<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=27768">Jepson</a><br />
 <a href="/assets/img/h_helix-1.jpg"><img src="/assets/img/thumbnails/h_helix-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/h_helix-2.jpg"><img src="/assets/img/thumbnails/h_helix-2.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/h_annuus-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Helianthus annuus</strong>
-(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=4040">Calflora</a> |
-<a href="https://pfaf.org/user/plant.aspx?LatinName=Helianthus+annuus">PFAF</a> |
-<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=3244">Jepson</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/h_annuus-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Helianthus annuus</strong></u></span><br />
+<i>Common Sunflower</i><br />
+<span style="color: green">Edible</span> | <span style="color: blue">Medicinal</span> | <span style="color: green">Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Common Sunflower<br />
 <strong>Historic household popularity:</strong> High<br />
@@ -621,14 +718,18 @@ Species documented to date (4/11/2020):<br />
 <strong>Medicinal Uses:</strong> The leaves, flowers, seeds, and roots are all used for various purposes.<br />
 <strong>Distribution:</strong> California native!<br />
 <strong>Date observed:</strong> 4/7/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=4040">Calflora</a> |
+<a href="https://pfaf.org/user/plant.aspx?LatinName=Helianthus+annuus">PFAF</a> |
+<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=3244">Jepson</a><br />
 <a href="/assets/img/h_annuus-1.jpg"><img src="/assets/img/thumbnails/h_annuus-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/h_annuus-2.jpg"><img src="/assets/img/thumbnails/h_annuus-2.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/h_echioides-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Helminthotheca echioides</strong>
-(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=10921">Calflora</a> |
-<a href="https://pfaf.org/user/Plant.aspx?LatinName=Picris+echioides">PFAF</a> |
-<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=81752">Jepson</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/h_echioides-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Helminthotheca echioides</strong></u></span><br />
+<i>Bristly Ox Tongue</i><br />
+<span style="color: green">Edible</span> | <span style="color: grey">Not Medicinal</span> | <span style="color: red">Not Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Bristly Ox Tongue<br />
 <strong>Historic household popularity:</strong> Unknown<br />
@@ -637,6 +738,10 @@ Species documented to date (4/11/2020):<br />
 <strong>Medicinal Uses:</strong> None known.<br />
 <strong>Distribution:</strong> Not native to California. Native to Europe and North Africa.<br />
 <strong>Date observed:</strong> 4/8/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=10921">Calflora</a> |
+<a href="https://pfaf.org/user/Plant.aspx?LatinName=Picris+echioides">PFAF</a> |
+<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=81752">Jepson</a><br />
 <a href="/assets/img/h_echioides-1.jpg"><img src="/assets/img/thumbnails/h_echioides-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/h_echioides-2.jpg"><img src="/assets/img/thumbnails/h_echioides-2.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/h_echioides-3.jpg"><img src="/assets/img/thumbnails/h_echioides-3.jpg" vspace="2" height="150" /></a>
@@ -644,9 +749,10 @@ Species documented to date (4/11/2020):<br />
 <a href="/assets/img/h_echioides-5.jpg"><img src="/assets/img/thumbnails/h_echioides-5.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/h_radicata-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Hypochoeris radicata</strong>
-(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=4314">Calflora</a> |
-<a href="https://pfaf.org/user/Plant.aspx?LatinName=Hypochoeris+radicata">PFAF</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/h_radicata-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Hypochoeris radicata</strong></u></span><br />
+<i>Cat's Ear</i><br />
+<span style="color: green">Edible</span> | <span style="color: blue">Medicinal</span> | <span style="color: red">Not Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Cat's Ear; Flatweed<br />
 <strong>Historic household popularity:</strong> Unknown<br />
@@ -655,21 +761,28 @@ Species documented to date (4/11/2020):<br />
 <strong>Medicinal Uses:</strong> H. radicata has a long history of medicinal use in Europe, but I haven't found a lot of information on it.<br />
 <strong>Distribution:</strong> Not native to California. Native to Europe.<br />
 <strong>Date observed:</strong> 4/7/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=4314">Calflora</a> |
+<a href="https://pfaf.org/user/Plant.aspx?LatinName=Hypochoeris+radicata">PFAF</a><br />
 <a href="/assets/img/h_radicata-1.jpg"><img src="/assets/img/thumbnails/h_radicata-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/h_radicata-2.jpg"><img src="/assets/img/thumbnails/h_radicata-2.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/l_saligna-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Lactuca saligna</strong>
-(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=4549">Calflora</a> |
-<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=3688">Jepson</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/l_saligna-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Lactuca saligna</strong></u></span><br />
+<i>Narrow-leaf Wild Lettuce</i><br />
+<span style="color: green">Edible</span> | <span style="color: blue">Medicinal</span> | <span style="color: red">Not Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Narrow-leaf Wild Lettuce; Willow-leaf Lettuce<br />
 <strong>Historic household popularity:</strong> Unknown<br />
 <strong>Comment:</strong> Another wild lettuce!  There are a few of these around the yard (that the gopher hasn't engaged), and they have really cool slender, smooth leaves!<br />
-<strong>Edibility:</strong> Presumably similar to l. serriola, though I haven't found anything concrete.<br />
+<strong>Edibility:</strong> Presumably similar to l. serriola.  In any case, all lactuca spp. are reportedly edible.<br />
 <strong>Medicinal Uses:</strong> Presumably similar to l. serriola, but info is lacking.<br />
 <strong>Distribution:</strong> Not native to California. Native to Europe and Asia.<br />
 <strong>Date observed:</strong> 4/7/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=4549">Calflora</a> |
+<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=3688">Jepson</a><br />
 <a href="/assets/img/l_saligna-1.jpg"><img src="/assets/img/thumbnails/l_saligna-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/l_saligna-2.jpg"><img src="/assets/img/thumbnails/l_saligna-2.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/l_saligna-3.jpg"><img src="/assets/img/thumbnails/l_saligna-3.jpg" vspace="2" height="150" /></a>
@@ -680,9 +793,10 @@ Species documented to date (4/11/2020):<br />
 <a href="/assets/img/l_saligna-8.jpg"><img src="/assets/img/thumbnails/l_saligna-8.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/l_serriola-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Lactuca serriola</strong>
-(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=4550">Calflora</a> |
-<a href="https://pfaf.org/user/Plant.aspx?LatinName=Lactuca+serriola">PFAF</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/l_serriola-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Lactuca serriola</strong></u></span><br />
+<i>Prickly Wild Lettuce</i><br />
+<span style="color: green">Edible</span> | <span style="color: blue">Medicinal</span> | <span style="color: red">Not Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Prickly Wild Lettuce<br />
 <strong>Historic household popularity:</strong> Unknown<br />
@@ -691,6 +805,9 @@ Species documented to date (4/11/2020):<br />
 <strong>Medicinal Uses:</strong>  So, there is a lot going on here.  Apparently, the mikly sap of l. serriola contains a compound called 'lactucarium', which is, in effect, a very week opium that doesn't have side effects (it is not addictive nor nausea-inducing).  The concentration of this magical 'lettuce opium' is maximized when the plant goes to flower, and can be collected by cutting off the flower heads and scraping away the exuded milk repeatedly until it runs dry.  It sounds like pretty potent stuff, even so, and should be used with caution.  Very interesting indeed.  Apparently lettuce opium has been around for a long time, but saw a resurgence in popularity in the 1970's with the hippie movement, and is still used today as a pain reliever and legal psychotropic.  L. virosa, a closely related species, has higher concentrations of lactucarium and is more well known for these medicinal properties, while garden lettuce (l. sativa) contains some amount of lactucarium as well!<br />
 <strong>Distribution:</strong> Not native to California. Native to Europe, Asia, and North Africa.<br />
 <strong>Date observed:</strong> 4/6/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=4550">Calflora</a> |
+<a href="https://pfaf.org/user/Plant.aspx?LatinName=Lactuca+serriola">PFAF</a><br />
 <a href="/assets/img/l_serriola-1.jpg"><img src="/assets/img/thumbnails/l_serriola-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/l_serriola-2.jpg"><img src="/assets/img/thumbnails/l_serriola-2.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/l_serriola-3.jpg"><img src="/assets/img/thumbnails/l_serriola-3.jpg" vspace="2" height="150" /></a>
@@ -702,14 +819,20 @@ Species documented to date (4/11/2020):<br />
 <a href="/assets/img/l_serriola-9.jpg"><img src="/assets/img/thumbnails/l_serriola-9.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/l_purpureum-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Lamium purpureum</strong> (<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=4562">Calflora</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/l_purpureum-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Lamium purpureum</strong></u></span><br />
+<i>Purple Deadnettle</i><br />
+<span style="color: green">Edible</span> | <span style="color: blue">Medicinal</span> | <span style="color: red">Not Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Purple Deadnettle; Henbit<br />
 <strong>Historic household popularity:</strong> Unknown<br />
 <strong>Comment:</strong> A lovely, colorful, and abundant weed in the back yard.<br />
 <strong>Edibility:</strong> Edible.  I've nibbled leaves (fine), but not tried cooking.  Flowers are tiny but can be sweet!<br />
 <strong>Medicinal Uses:</strong> Leaves can be used to treat wounds, maybe some other stuff.<br />
+<strong>Distribution:</strong> Not native to California. Native to Europe and Asia.<br />
 <strong>Date observed:</strong> 3/30/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=4562">Calflora</a><br />
 <a href="/assets/img/l_purpureum-1.jpg"><img src="/assets/img/thumbnails/l_purpureum-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/l_purpureum-2.jpg"><img src="/assets/img/thumbnails/l_purpureum-2.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/l_purpureum-3.jpg"><img src="/assets/img/thumbnails/l_purpureum-3.jpg" vspace="2" height="150" /></a>
@@ -717,10 +840,10 @@ Species documented to date (4/11/2020):<br />
 <a href="/assets/img/l_purpureum-5.jpg"><img src="/assets/img/thumbnails/l_purpureum-5.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/l_saxatilis-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Leontodon saxatilis</strong>
-(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=10619">Calflora</a> |
-<a href="https://pfaf.org/user/plant.aspx?latinname=leontodon+">PFAF</a> |
-<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=82193">Jepson</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/l_saxatilis-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Leontodon saxatilis</strong></u></span><br />
+<i>Hairy Hawkbit</i><br />
+<span style="color: green">Edible</span> | <span style="color: blue">Medicinal</span> | <span style="color: red">Not Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Hairy Hawkbit; Lesser Hawkbit<br />
 <strong>Historic household popularity:</strong> Unknown<br />
@@ -729,6 +852,10 @@ Species documented to date (4/11/2020):<br />
 <strong>Medicinal Uses:</strong> There are a few medicinal uses for leontodon spp., nothing remarkable.<br />
 <strong>Distribution:</strong> Not native to California. Native to Europe and North Africa.<br />
 <strong>Date observed:</strong> 4/7/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=10619">Calflora</a> |
+<a href="https://pfaf.org/user/plant.aspx?latinname=leontodon+">PFAF</a> |
+<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=82193">Jepson</a><br />
 <a href="/assets/img/l_saxatilis-1.jpg"><img src="/assets/img/thumbnails/l_saxatilis-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/l_saxatilis-2.jpg"><img src="/assets/img/thumbnails/l_saxatilis-2.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/l_saxatilis-3.jpg"><img src="/assets/img/thumbnails/l_saxatilis-3.jpg" vspace="2" height="150" /></a>
@@ -737,10 +864,10 @@ Species documented to date (4/11/2020):<br />
 <a href="/assets/img/l_saxatilis-6.jpg"><img src="/assets/img/thumbnails/l_saxatilis-6.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/l_didymum-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Lepidium didymum</strong>
-(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=10940">Calflora</a> |
-<a href="https://pfaf.org/user/Plant.aspx?LatinName=Lepidium+didymum">PFAF</a> |
-<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=30511">Jepson</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/l_didymum-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Lepidium didymum</strong></u></span><br />
+<i>Lesser Swine Cress</i><br />
+<span style="color: green">Edible</span> | <span style="color: blue">Medicinal</span> | <span style="color: red">Not Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Lesser Swine Cress<br />
 <strong>Historic household popularity:</strong> Unknown<br />
@@ -749,6 +876,10 @@ Species documented to date (4/11/2020):<br />
 <strong>Medicinal Uses:</strong> Used to treat headaches and fever, among other things. <a href="https://uses.plantnet-project.org/en/Lepidium_didymum_(PROTA)">Here</a> and <a href="https://www.wildfooduk.com/edible-wild-plants/lesser-swine-cress/">here</a> is some relevant info.<br />
 <strong>Distribution:</strong> Not native to California. Origin thought to be South America.<br />
 <strong>Date observed:</strong> 4/8/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=10940">Calflora</a> |
+<a href="https://pfaf.org/user/Plant.aspx?LatinName=Lepidium+didymum">PFAF</a> |
+<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=30511">Jepson</a><br />
 <a href="/assets/img/l_didymum-1.jpg"><img src="/assets/img/thumbnails/l_didymum-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/l_didymum-2.jpg"><img src="/assets/img/thumbnails/l_didymum-2.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/l_didymum-3.jpg"><img src="/assets/img/thumbnails/l_didymum-3.jpg" vspace="2" height="150" /></a>
@@ -759,9 +890,10 @@ Species documented to date (4/11/2020):<br />
 <a href="/assets/img/l_didymum-8.jpg"><img src="/assets/img/thumbnails/l_didymum-8.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/l_arvensis-2.jpg" loading="eager" vspace="2" height="100" /> <strong>Lysimachia arvensis</strong>
-(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=13206">Calflora</a> |
-<a href="https://pfaf.org/user/Plant.aspx?LatinName=Anagallis+arvensis">PFAF</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/l_arvensis-2.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Lysimachia arvensis</strong></u></span><br />
+<i>Scarlet Pimpernel</i><br />
+<span style="color: red">Not Edible</span> | <span style="color: blue">Medicinal</span> | <span style="color: red">Not Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Scarlet Pimpernel<br />
 <strong>Historic household popularity:</strong> Unknown<br />
@@ -769,6 +901,9 @@ Species documented to date (4/11/2020):<br />
 <strong>Edibility:</strong> Apparently this plant does have a history of consumption, but it is no longer recommended due to potential toxicity, and anyways is supposedly acrid.<br />
 <strong>Medicinal Uses:</strong>  L. arvensis has a history of medicinal use in some countries, but its unclear whether these have much efficacy.<br />
 <strong>Date observed:</strong> 3/31/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=13206">Calflora</a> |
+<a href="https://pfaf.org/user/Plant.aspx?LatinName=Anagallis+arvensis">PFAF</a><br />
 <a href="/assets/img/l_arvensis-1.jpg"><img src="/assets/img/thumbnails/l_arvensis-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/l_arvensis-2.jpg"><img src="/assets/img/thumbnails/l_arvensis-2.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/l_arvensis-3.jpg"><img src="/assets/img/thumbnails/l_arvensis-3.jpg" vspace="2" height="150" /></a>
@@ -776,9 +911,10 @@ Species documented to date (4/11/2020):<br />
 <a href="/assets/img/l_arvensis-5.jpg"><img src="/assets/img/thumbnails/l_arvensis-5.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/m_parviflora-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Malva parviflora</strong>
-(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=5354">Calflora</a> |
-<a href="https://pfaf.org/user/Plant.aspx?LatinName=Malva+parviflora">PFAF</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/m_parviflora-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Malva parviflora</strong></u></span><br />
+<i>Malva parviflora</i><br />
+<span style="color: green">Edible</span> | <span style="color: blue">Medicinal</span> | <span style="color: red">Not Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Cheeseweed Mallow<br />
 <strong>Historic household popularity:</strong> Medium<br />
@@ -787,6 +923,9 @@ Species documented to date (4/11/2020):<br />
 <strong>Medicinal Uses:</strong> Malva spp in general are widely used medicinally.  They are helpful for soothing inflammed tissues associated with digestive issues, respiratory infections (coughs, sore throats, etc.), UTIs, and more.  Some recommend using mallow to make a face mask or shampoo to faciliate skin repair and dandruff removal. <a href="https://solidarityapothecary.org/common-mallow-plant-profile/">Here</a> is some more info.<br />
 <strong>Distribution:</strong> Not native to California. Native to Europe, North Africa, and Asia.<br />
 <strong>Date observed:</strong> 4/1/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=5354">Calflora</a> |
+<a href="https://pfaf.org/user/Plant.aspx?LatinName=Malva+parviflora">PFAF</a><br />
 <a href="/assets/img/m_parviflora-1.jpg"><img src="/assets/img/thumbnails/m_parviflora-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/m_parviflora-2.jpg"><img src="/assets/img/thumbnails/m_parviflora-2.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/m_parviflora-3.jpg"><img src="/assets/img/thumbnails/m_parviflora-3.jpg" vspace="2" height="150" /></a>
@@ -795,14 +934,22 @@ Species documented to date (4/11/2020):<br />
 <a href="/assets/img/m_parviflora-6.jpg"><img src="/assets/img/thumbnails/m_parviflora-6.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/m_polymorpha-3.jpg" loading="eager" vspace="2" height="100" /> <strong>Medicago polymorpha</strong> (<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=5385">Calflora</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/m_polymorpha-3.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Medicago polymorpha</strong></u></span><br />
+<i>Burr Clover</i><br />
+<span style="color: green">Edible</span> | <span style="color: grey">Not Medicinal</span> | <span style="color: red">Not Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
-<strong>Common name(s):</strong> Burr Clover<br />
+<strong>Common name(s):</strong> Burr Clover; Burr Medic<br />
 <strong>Historic household popularity:</strong> Unknown<br />
-<strong>Comment:</strong> <br />
-<strong>Edibility:</strong><br />
-<strong>Medicinal Uses:</strong><br />
+<strong>Comment:</strong> We've got tons of burr clover, especially in the back yard, and it's an edible nitrogen fixer! M. polymorpha is symbiotic with sinorrhizobium medicae, a nitrogen fixing bacteria. It's also guilty of producing one of the classic late summer burrs that my shoes and socks soak up like a huge neodymium magnet attracts tiny metal donuts.<br />
+<strong>Edibility:</strong> The young leaves, shoots, and flowers can be eaten raw or cooked, and the seed can be eaten cooked. I've nibbled on the young leaves and they are not bad -- a little bitter but with a nice pea shoot like flavor.<br />
+<strong>Medicinal Uses:</strong> None known.<br />
+<strong>Distribution:</strong> Not native to California. Native to the Mediterreanean region.<br />
 <strong>Date observed:</strong> 3/31/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=5385">Calflora</a> |
+<a href="https://pfaf.org/user/Plant.aspx?LatinName=Medicago+polymorpha">PFAF</a> |
+<a href-"https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=32938">Jepson</a><br />
 <a href="/assets/img/m_polymorpha-1.jpg"><img src="/assets/img/thumbnails/m_polymorpha-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/m_polymorpha-2.jpg"><img src="/assets/img/thumbnails/m_polymorpha-2.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/m_polymorpha-3.jpg"><img src="/assets/img/thumbnails/m_polymorpha-3.jpg" vspace="2" height="150" /></a>
@@ -813,9 +960,12 @@ Species documented to date (4/11/2020):<br />
 <a href="/assets/img/m_polymorpha-8.jpg"><img src="/assets/img/thumbnails/m_polymorpha-8.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/m_officinalis-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Melissa officinalis</strong>
-(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=5408">Calflora</a> | 
-<a href="https://pfaf.org/user/plant.aspx?latinname=Melissa+officinalis">PFAF</a>)</summary>
+<!-----------------------I am here-->
+
+<details><summary><img src="/assets/img/thumbnails/m_officinalis-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Melissa officinalis</strong></u></span><br />
+<i>Lemon Balm</i><br />
+<span style="color: green">Edible</span> | <span style="color: blue">Medicinal</span> | <span style="color: red">Not Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Lemon Balm; Bee Balm; Common Balm<br />
 <strong>Historic household popularity:</strong> High<br />
@@ -824,13 +974,17 @@ Species documented to date (4/11/2020):<br />
 <strong>Medicinal Uses:</strong> Used for a whole bunch of stuff, including to treat cold sores, fevers and colds, and certain types of indigestion.<br />
 <strong>Distribution:</strong> Not native to California. Native to parts of Europe and Asia.<br />
 <strong>Date observed:</strong> 4/2/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=5408">Calflora</a> | 
+<a href="https://pfaf.org/user/plant.aspx?latinname=Melissa+officinalis">PFAF</a><br />
 <a href="/assets/img/m_officinalis-1.jpg"><img src="/assets/img/thumbnails/m_officinalis-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/m_officinalis-2.jpg"><img src="/assets/img/thumbnails/m_officinalis-2.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/m_latifolia-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Myosotis latifolia</strong>
-(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=5722">Calflora</a> | 
-<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=34211">Jepson</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/m_latifolia-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Myosotis latifolia</strong></u></span><br />
+<i>Broadleaf Forget Me Not</i><br />
+<span style="color: green">Edible</span> | <span style="color: grey">Not Medicinal</span> | <span style="color: red">Not Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Broadleaf Forget Me Not<br />
 <strong>Historic household popularity:</strong> Unknown<br />
@@ -839,13 +993,17 @@ Species documented to date (4/11/2020):<br />
 <strong>Medicinal Uses:</strong> Probably not much.<br />
 <strong>Distribution:</strong> Not native to California. Native to Northwest Africa.<br />
 <strong>Date observed:</strong> 4/8/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=5722">Calflora</a> | 
+<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=34211">Jepson</a><br />
 <a href="/assets/img/m_latifolia-1.jpg"><img src="/assets/img/thumbnails/m_latifolia-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/m_latifolia-2.jpg"><img src="/assets/img/thumbnails/m_latifolia-2.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/n_damascena-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Nigella damascena</strong>
-(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=8711">Calflora</a> | 
-<a href="https://pfaf.org/user/Plant.aspx?LatinName=Nigella+damascena">PFAF</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/n_damascena-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Nigella damascena</strong></u></span><br />
+<i>Love-in-a-mist</i><br />
+<span style="color: green">Edible</span> | <span style="color: blue">Medicinal</span> | <span style="color: red">Not Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Love-in-a-mist; Devil in the bush<br />
 <strong>Historic household popularity:</strong> High<br />
@@ -854,20 +1012,30 @@ Species documented to date (4/11/2020):<br />
 <strong>Medicinal Uses:</strong> All I can find is: 'expectorant'.<br />
 <strong>Distribution:</strong> Not native to California. Native to Southern Europe.<br />
 <strong>Date observed:</strong> 4/7/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=8711">Calflora</a> | 
+<a href="https://pfaf.org/user/Plant.aspx?LatinName=Nigella+damascena">PFAF</a><br />
 <a href="/assets/img/n_damascena-1.jpg"><img src="/assets/img/thumbnails/n_damascena-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/n_damascena-2.jpg"><img src="/assets/img/thumbnails/n_damascena-2.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/n_damascena-3.jpg"><img src="/assets/img/thumbnails/n_damascena-3.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/o_corniculata-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Oxalis corniculata</strong> (<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=6010">Calflora</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/o_corniculata-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Oxalis corniculata</strong></u></span><br />
+<i>Creeping Woodsorrel</i><br />
+<span style="color: green">Edible</span> | <span style="color: blue">Medicinal</span> | <span style="color: red">Not Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Creeping Woodsorrel<br />
 <strong>Historic household popularity:</strong> Unknown<br />
-<strong>Comment:</strong> <br />
-<strong>Edibility:</strong> Edible raw or cooked. The leaves and flowers are tart and tasty for a quick nibble.<br />
-<strong>Medicinal Uses:</strong> Seems to have plenty.<br />
+<strong>Comment:</strong> These cute little yellow flowers are less conspicuous than the big o. pes-caprae flowers, and blend in more naturally with the back yard weed-scape.  Still, is does spread pretty persistently and we probably don't need quite so much of it.<br />
+<strong>Edibility:</strong> Edible raw or cooked. The leaves and flowers are tart and tasty for a quick nibble. Fairly high in oxalic acid.<br />
+<strong>Medicinal Uses:</strong> Seems to have plenty, including treatment of fever, flu, and UTIs. <br />
 <strong>Distribution:</strong> Not native to California.  Likely native to south-east Asia, but now naturalized in California.<br />
 <strong>Date observed:</strong> 3/31/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=6010">Calflora</a> |
+<a href="https://pfaf.org/user/plant.aspx?LatinName=Oxalis+corniculata">PFAF</a> |
+<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=35609">Jepson</a><br />
 <a href="/assets/img/o_corniculata-1.jpg"><img src="/assets/img/thumbnails/o_corniculata-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/o_corniculata-2.jpg"><img src="/assets/img/thumbnails/o_corniculata-2.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/o_corniculata-3.jpg"><img src="/assets/img/thumbnails/o_corniculata-3.jpg" vspace="2" height="150" /></a>
@@ -877,15 +1045,22 @@ Species documented to date (4/11/2020):<br />
 <a href="/assets/img/o_corniculata-7.jpg"><img src="/assets/img/thumbnails/o_corniculata-7.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/o_pes-caprae-3.jpg" loading="eager" vspace="2" height="100" /> <strong>Oxalis pes-caprae</strong> (<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=6016">Calflora</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/o_pes-caprae-3.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Oxalis pes-caprae</strong></u></span><br />
+<i>Sourgrass</i><br />
+<span style="color: green">Edible</span> | <span style="color: grey">Not Medicinal</span> | <span style="color: red">Not Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Sourgrass; Bermuda Buttercup; Soursop; African Wood Sorrel<br />
 <strong>Historic household popularity:</strong> Very Low<br />
-<strong>Comment:</strong> <br />
-<strong>Edibility:</strong> <br />
-<strong>Medicinal Uses:</strong> <br />
+<strong>Comment:</strong> Taylor has been on oxalis alert for a while now, relentlessly weeding any and all observed plants at every opportunity.  As a result, we don't have nearly as much oxalis as some of the neighbors, though it can still be found pretty reliably if you look close enough.  Interestingly, there seems to be some debate over whether o. pes-capre is the ultimate evil or a more passive member of the largely non-native ecosystems of disturbed areas (see <a href="https://milliontrees.me/2015/05/15/five-reasons-its-okay-to-love-oxalis-and-stop-poisoning-it/">this</a> and <a href="https://baynature.org/article/a-natural-history-of-that-little-yellow-flower-thats-everywhere-right-now/">this</a>).<br />
+<strong>Edibility:</strong> The whole plant is edible, leaves, shoots, flowers, and root/bulb.  The root should be cooked, but everything else is optional.  The leaves and flowers are pretty tart (and high in oxalic acid), but are pleasant for a nibble.<br />
+<strong>Medicinal Uses:</strong> None known.<br />
 <strong>Distribution:</strong> Not native to California.  Native to South Africa.<br />
 <strong>Date observed:</strong> 4/1/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=6016">Calflora</a> |
+<a href="https://pfaf.org/user/Plant.aspx?LatinName=Oxalis+pes-caprae">PFAF</a> |
+<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=35642">Jepson</a><br />
 <a href="/assets/img/o_pes-caprae-1.jpg"><img src="/assets/img/thumbnails/o_pes-caprae-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/o_pes-caprae-2.jpg"><img src="/assets/img/thumbnails/o_pes-caprae-2.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/o_pes-caprae-3.jpg"><img src="/assets/img/thumbnails/o_pes-caprae-3.jpg" vspace="2" height="150" /></a>
@@ -895,10 +1070,10 @@ Species documented to date (4/11/2020):<br />
 <a href="/assets/img/o_pes-caprae-7.jpg"><img src="/assets/img/thumbnails/o_pes-caprae-7.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/p_somniferum-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Papaver somniferum</strong>
-(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=6058">Calflora</a> | 
-<a href="https://pfaf.org/user/plant.aspx?LatinName=Papaver+somniferum">PFAF</a> |
-<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=36229">Jepson</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/p_somniferum-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Papaver somniferum</strong></u></span><br />
+<i>Opium poppy</i><br />
+<span style="color: green">Edible</span> | <span style="color: blue">Medicinal</span> | <span style="color: red">Not Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Opium Poppy<br />
 <strong>Historic household popularity:</strong> High<br />
@@ -907,13 +1082,18 @@ Species documented to date (4/11/2020):<br />
 <strong>Medicinal Uses:</strong> This is a potent one! The dried latex from the unripe seed heads is high in a variety of alkaloids, including opium and morphine.  They are used for pain relief, and a variety of other purposes, but are notoriously addictive.<br />
 <strong>Distribution:</strong> Not native to California. Native to the Eastern Mediterreanean region, probably.<br />
 <strong>Date observed:</strong> 4/10/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=6058">Calflora</a> | 
+<a href="https://pfaf.org/user/plant.aspx?LatinName=Papaver+somniferum">PFAF</a> |
+<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=36229">Jepson</a><br />
 <a href="/assets/img/p_somniferum-1.jpg"><img src="/assets/img/thumbnails/p_somniferum-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/p_somniferum-2.jpg"><img src="/assets/img/thumbnails/p_somniferum-2.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/p_distans-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Phacelia distans</strong>
-(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=6318">Calflora</a> |
-<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=37450">Jepson</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/p_distans-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Phacelia distans</strong></u></span><br />
+<i>Common Phacelia</i><br />
+<span style="color: red">Not Edible</span> | <span style="color: grey">Not Medicinal</span> | <span style="color: green">Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Common Phacelia; Distant Phecelia<br />
 <strong>Historic household popularity:</strong> Unknown<br />
@@ -922,6 +1102,9 @@ Species documented to date (4/11/2020):<br />
 <strong>Medicinal Uses:</strong> None that I can find.<br />
 <strong>Distribution:</strong> California native!<br />
 <strong>Date observed:</strong> 4/11/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=6318">Calflora</a> |
+<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=37450">Jepson</a><br />
 <a href="/assets/img/p_distans-1.jpg"><img src="/assets/img/thumbnails/p_distans-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/p_distans-2.jpg"><img src="/assets/img/thumbnails/p_distans-2.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/p_distans-3.jpg"><img src="/assets/img/thumbnails/p_distans-3.jpg" vspace="2" height="150" /></a>
@@ -929,9 +1112,10 @@ Species documented to date (4/11/2020):<br />
 <a href="/assets/img/p_distans-5.jpg"><img src="/assets/img/thumbnails/p_distans-5.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/p_serratifolia-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Photinia serratifolia</strong>
-(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=12766">Calflora</a> | 
-<a href="https://pfaf.org/user/Plant.aspx?LatinName=Photinia+serratifolia">PFAF</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/p_serratifolia-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Photinia serratifolia</strong></u></span><br />
+<i>Taiwanese Photinia</i><br />
+<span style="color: red">Not Edible</span> | <span style="color: blue">Medicinal</span> | <span style="color: red">Not Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Taiwanese Photinia<br />
 <strong>Historic household popularity:</strong> Unkonwn<br />
@@ -940,20 +1124,30 @@ Species documented to date (4/11/2020):<br />
 <strong>Medicinal Uses:</strong> Supposedly a strong aphrodisiac?  Also invigorating (tonic).<br />
 <strong>Distribution:</strong> Not native to California. Native to East Asia.<br />
 <strong>Date observed:</strong> 4/10/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=12766">Calflora</a> | 
+<a href="https://pfaf.org/user/Plant.aspx?LatinName=Photinia+serratifolia">PFAF</a><br />
 <a href="/assets/img/p_serratifolia-1.jpg"><img src="/assets/img/thumbnails/p_serratifolia-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/p_serratifolia-2.jpg"><img src="/assets/img/thumbnails/p_serratifolia-2.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/p_serratifolia-3.jpg"><img src="/assets/img/thumbnails/p_serratifolia-3.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/p_annua-3.jpg" loading="eager" vspace="2" height="100" /> <strong>Poa annua</strong> (<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=6658">Calflora</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/p_annua-3.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Poa annua</strong></u></span><br />
+<i>Annual Bluegrass</i><br />
+<span style="color: red">Not Edible</span> | <span style="color: grey">Not Medicinal</span> | <span style="color: red">Not Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Annual Bluegrass<br />
 <strong>Historic household popularity:</strong> Unknown<br />
-<strong>Comment:</strong> <br />
-<strong>Edibility:</strong> <br />
-<strong>Medicinal Uses:</strong> <br />
-<strong>Distribution:</strong> <br />
+<strong>Comment:</strong> P. annua is one of the signature grasses of our backyard, forming delicate and feathery miniature seed heads atop compact mats of stems.  It seems very resilient to being stepped on.<br />
+<strong>Edibility:</strong> Unknown<br />
+<strong>Medicinal Uses:</strong> None known.<br />
+<strong>Distribution:</strong> Not native to California. Likely native to Europe.<br />
 <strong>Date observed:</strong> 3/31/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=6658">Calflora</a> |
+<a href="https://pfaf.org/user/Plant.aspx?LatinName=Poa+annua">PFAF</a> |
+<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=38787">Jepson</a><br />
 <a href="/assets/img/p_annua-1.jpg"><img src="/assets/img/thumbnails/p_annua-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/p_annua-2.jpg"><img src="/assets/img/thumbnails/p_annua-2.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/p_annua-3.jpg"><img src="/assets/img/thumbnails/p_annua-3.jpg" vspace="2" height="150" /></a>
@@ -963,10 +1157,10 @@ Species documented to date (4/11/2020):<br />
 <a href="/assets/img/p_annua-7.jpg"><img src="/assets/img/thumbnails/p_annua-7.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/p_lanceolata-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Plantago lanceolata</strong>
-(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=6618">Calflora</a> | 
-<a href="https://pfaf.org/user/plant.aspx?LatinName=Plantago+lanceolata">PFAF</a> |
-<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=38567">Jepson</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/p_lanceolata-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Plantago lanceolata</strong></u></span><br />
+<i>English Plantain</i><br />
+<span style="color: green">Edible</span> | <span style="color: blue">Medicinal</span> | <span style="color: red">Not Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> English Plantain; Narrow Leaved Plantain<br />
 <strong>Historic household popularity:</strong> Unknown<br />
@@ -975,13 +1169,17 @@ Species documented to date (4/11/2020):<br />
 <strong>Medicinal Uses:</strong> A widely used medicinal plant, especially for wounds (clotting and tissue repair), skin irritations in general, and for a variety of gut relatied issues and more.  The seeds have a fair amount of mucilage and act as a laxative in larger quantities.<br />
 <strong>Distribution:</strong> Not native to California. Native to Europe.<br />
 <strong>Date observed:</strong> 4/10/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=6618">Calflora</a> | 
+<a href="https://pfaf.org/user/plant.aspx?LatinName=Plantago+lanceolata">PFAF</a> |
+<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=38567">Jepson</a><br />
 <a href="/assets/img/p_lanceolata-1.jpg"><img src="/assets/img/thumbnails/p_lanceolata-1.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/p_ilicifolia-2.jpg" loading="eager" vspace="2" height="100" /> <strong>Prunus ilicifolia</strong>
-(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=6894">Calflora</a> | 
-<a href="https://pfaf.org/user/Plant.aspx?LatinName=Prunus+ilicifolia">PFAF</a> |
-<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=39987">Jepson</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/p_ilicifolia-2.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Prunus ilicifolia</strong></u></span><br />
+<i>Holly Leaf Cherry</i><br />
+<span style="color: green">Edible</span> | <span style="color: blue">Medicinal</span> | <span style="color: green">Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Holly Leaf Cherry<br />
 <strong>Historic household popularity:</strong> Low<br />
@@ -990,14 +1188,19 @@ Species documented to date (4/11/2020):<br />
 <strong>Medicinal Uses:</strong> The leaves and bark can be used to make cough medicine.  Small quantities of hydrogen cyanide apparently improves respiration, digestion, fights cancer, and generally makes one feel better.  Hmm.<br />
 <strong>Distribution:</strong> California native!<br />
 <strong>Date observed:</strong> 4/8/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=6894">Calflora</a> | 
+<a href="https://pfaf.org/user/Plant.aspx?LatinName=Prunus+ilicifolia">PFAF</a> |
+<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=39987">Jepson</a><br />
 <a href="/assets/img/p_ilicifolia-1.jpg"><img src="/assets/img/thumbnails/p_ilicifolia-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/p_ilicifolia-2.jpg"><img src="/assets/img/thumbnails/p_ilicifolia-2.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/p_ilicifolia-3.jpg"><img src="/assets/img/thumbnails/p_ilicifolia-3.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/q_agrifolia-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Quercus agrifolia</strong>
-(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=6983">Calflora</a> | 
-<a href="https://pfaf.org/user/Plant.aspx?LatinName=Quercus+agrifolia">PFAF</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/q_agrifolia-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Quercus agrifolia</strong></u></span><br />
+<i>Coast Live Oak</i><br />
+<span style="color: green">Edible</span> | <span style="color: blue">Medicinal</span> | <span style="color: green">Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Coast Live Oak<br />
 <strong>Historic household popularity:</strong> Unknown<br />
@@ -1006,13 +1209,16 @@ Species documented to date (4/11/2020):<br />
 <strong>Medicinal Uses:</strong> Apparently, the galls can be used to treat hemorrhages and chronic diahrrea.<br />
 <strong>Distribution:</strong> California native!<br />
 <strong>Date observed:</strong> 4/7/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=6983">Calflora</a> | 
+<a href="https://pfaf.org/user/Plant.aspx?LatinName=Quercus+agrifolia">PFAF</a><br />
 <a href="/assets/img/q_agrifolia-1.jpg"><img src="/assets/img/thumbnails/q_agrifolia-1.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/q_lobata-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Quercus lobata</strong>
-(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=7001">Calflora</a> | 
-<a href="https://pfaf.org/user/Plant.aspx?LatinName=Quercus+lobata">PFAF</a> |
-<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=40663">Jepson</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/q_lobata-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Quercus lobata</strong></u></span><br />
+<i>Valley Oak</i><br />
+<span style="color: green">Edible</span> | <span style="color: blue">Medicinal</span> | <span style="color: green">Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Valley Oak; California White Oak<br />
 <strong>Historic household popularity:</strong> Medium<br />
@@ -1021,12 +1227,17 @@ Species documented to date (4/11/2020):<br />
 <strong>Medicinal Uses:</strong> Apparently, the galls can be used to treat hemorrhages and chronic diahrrea.<br />
 <strong>Distribution:</strong> California native!<br />
 <strong>Date observed:</strong> 4/8/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=7001">Calflora</a> | 
+<a href="https://pfaf.org/user/Plant.aspx?LatinName=Quercus+lobata">PFAF</a> |
+<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=40663">Jepson</a><br />
 <a href="/assets/img/q_lobata-1.jpg"><img src="/assets/img/thumbnails/q_lobata-1.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/r_muricatus-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Ranunculus muricatus</strong>
-(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=7048">Calflora</a> | 
-<a href="https://pfaf.org/user/Plant.aspx?LatinName=Ranunculus+muricatus">PFAF</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/r_muricatus-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Ranunculus muricatus</strong></u></span><br />
+<i>Spiny-fruit Buttercup</i><br />
+<span style="color: red">Not Edible</span> | <span style="color: blue">Medicinal</span> | <span style="color: red">Not Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Spiny-fruit Buttercup<br />
 <strong>Historic household popularity:</strong> Unknown<br />
@@ -1035,6 +1246,9 @@ Species documented to date (4/11/2020):<br />
 <strong>Medicinal Uses:</strong> Does not seem commonly used, but there is reference to this plant being used to treat fevers and more.<br />
 <strong>Distribution:</strong> Not native to California. Native to Europe.<br />
 <strong>Date observed:</strong> 4/6/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=7048">Calflora</a> | 
+<a href="https://pfaf.org/user/Plant.aspx?LatinName=Ranunculus+muricatus">PFAF</a><br />
 <a href="/assets/img/r_muricatus-1.jpg"><img src="/assets/img/thumbnails/r_muricatus-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/r_muricatus-2.jpg"><img src="/assets/img/thumbnails/r_muricatus-2.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/r_muricatus-3.jpg"><img src="/assets/img/thumbnails/r_muricatus-3.jpg" vspace="2" height="150" /></a>
@@ -1044,29 +1258,31 @@ Species documented to date (4/11/2020):<br />
 <a href="/assets/img/r_muricatus-7.jpg"><img src="/assets/img/thumbnails/r_muricatus-7.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/r_rosea-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Romulea rosea</strong>
-(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=10308">Calflora</a> |
-<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=65230">Jepson</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/r_rosea-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Romulea rosea</strong></u></span><br />
+<i>Onion Grass</i><br />
+<span style="color: green">Edible</span> | <span style="color: grey">Not Medicinal</span> | <span style="color: red">Not Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Onion Grass; Rosy Sandcrocus<br />
 <strong>Historic household popularity:</strong> Unknown<br />
 <strong>Comment:</strong> This one just popped up out of nowhere!  A single beautiful flower, and right off back deck of the studio, perfectly placed to be stepped on.  We'll see how long it lasts.<br />
 <strong>Edibility:</strong> Edible! Apparently the fruits of r. rosea, while small, are sweet and juicy -- even called "plum puddings" by some.  The corms can be eaten as well, with a flavor similar to water chestnuts, but with a bitter aftertaste. The leaves are tough but probably edible. <a href="https://tasmanianplants.wordpress.com/2009/11/02/a-snack-of-onion-grass-romulea-rosea/">Here</a> is a relevant post.<br />
-<strong>Medicinal Uses:</strong> Does not seem commonly used, but there is reference to this plant being used to treat fevers and more.<br />
+<strong>Medicinal Uses:</strong> None known.<br />
 <strong>Distribution:</strong> Not native to California. Native to South Africa.<br />
 <strong>Date observed:</strong> 4/6/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=10308">Calflora</a> |
+<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=65230">Jepson</a><br />
 <a href="/assets/img/r_rosea-1.jpg"><img src="/assets/img/thumbnails/r_rosea-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/r_rosea-2.jpg"><img src="/assets/img/thumbnails/r_rosea-2.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/r_rosea-3.jpg"><img src="/assets/img/thumbnails/r_rosea-3.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/r_rosea-4.jpg"><img src="/assets/img/thumbnails/r_rosea-4.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-
-
-<details><summary><img src="/assets/img/thumbnails/r_armeniacus-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Rubus armeniacus</strong>
-(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=10319">Calflora</a> | 
-<a href="https://pfaf.org/user/Plant.aspx?LatinName=Rubus+procerus">PFAF</a> |
-<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=87465">Jepson</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/r_armeniacus-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Rubus armeniacus</strong></u></span><br />
+<i>Himalayan Blackberry</i><br />
+<span style="color: green">Edible</span> | <span style="color: grey">Not Medicinal</span> | <span style="color: red">Not Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Himalayan Blackberry<br />
 <strong>Historic household popularity:</strong> Medium<br />
@@ -1075,14 +1291,18 @@ Species documented to date (4/11/2020):<br />
 <strong>Medicinal Uses:</strong> None known.<br />
 <strong>Distribution:</strong> Not native to California. Native to Europe.<br />
 <strong>Date observed:</strong> 4/7/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=10319">Calflora</a> | 
+<a href="https://pfaf.org/user/Plant.aspx?LatinName=Rubus+procerus">PFAF</a> |
+<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=87465">Jepson</a><br />
 <a href="/assets/img/r_armeniacus-1.jpg"><img src="/assets/img/thumbnails/r_armeniacus-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/r_armeniacus-2.jpg"><img src="/assets/img/thumbnails/r_armeniacus-2.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/r_crispus-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Rumex crispus</strong>
-(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=7215">Calflora</a> | 
-<a href="https://pfaf.org/user/plant.aspx?LatinName=Rumex+crispus">PFAF</a> |
-<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=42386">Jepson</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/r_crispus-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Rumex crispus</strong></u></span><br />
+<i>Curly Dock</i><br />
+<span style="color: green">Edible</span> | <span style="color: blue">Medicinal</span> | <span style="color: red">Not Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Curly Dock<br />
 <strong>Historic household popularity:</strong> Medium<br />
@@ -1091,15 +1311,19 @@ Species documented to date (4/11/2020):<br />
 <strong>Medicinal Uses:</strong> R. crispus has a long history of medicinal use.  The root is most commonly used, and supports healthy digestion, liver function, and certain skin conditions, among other things.<br />
 <strong>Distribution:</strong> Not native to California. Native to Europe and West Asia.<br />
 <strong>Date observed:</strong> 4/8/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=7215">Calflora</a> | 
+<a href="https://pfaf.org/user/plant.aspx?LatinName=Rumex+crispus">PFAF</a> |
+<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=42386">Jepson</a><br />
 <a href="/assets/img/r_crispus-1.jpg"><img src="/assets/img/thumbnails/r_crispus-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/r_crispus-2.jpg"><img src="/assets/img/thumbnails/r_crispus-2.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/r_crispus-3.jpg"><img src="/assets/img/thumbnails/r_crispus-3.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/s_cereale-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Secale cereale</strong>
-(<a href="https://www.calflora.org//cgi-bin/species_query.cgi?where-taxon=Secale+cereale">Calflora</a> |
-<a href="https://pfaf.org/user/Plant.aspx?LatinName=Secale+cereale">PFAF</a> |
-<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=43939">Jepson</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/s_cereale-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Secale cereale</strong></u></span><br />
+<i>Rye</i><br />
+<span style="color: green">Edible</span> | <span style="color: grey">Not Medicinal</span> | <span style="color: red">Not Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Rye<br />
 <strong>Historic household popularity:</strong> Unknown<br />
@@ -1108,6 +1332,10 @@ Species documented to date (4/11/2020):<br />
 <strong>Medicinal Uses:</strong> Not a whole lot here.<br />
 <strong>Distribution:</strong> Not native to California. Likely native to West Asia.<br />
 <strong>Date observed:</strong> 4/8/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org//cgi-bin/species_query.cgi?where-taxon=Secale+cereale">Calflora</a> |
+<a href="https://pfaf.org/user/Plant.aspx?LatinName=Secale+cereale">PFAF</a> |
+<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=43939">Jepson</a><br />
 <a href="/assets/img/s_cereale-1.jpg"><img src="/assets/img/thumbnails/s_cereale-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/s_cereale-2.jpg"><img src="/assets/img/thumbnails/s_cereale-2.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/s_cereale-3.jpg"><img src="/assets/img/thumbnails/s_cereale-3.jpg" vspace="2" height="150" /></a>
@@ -1119,14 +1347,22 @@ Species documented to date (4/11/2020):<br />
 <a href="/assets/img/s_cereale-9.jpg"><img src="/assets/img/thumbnails/s_cereale-9.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/s_vulgaris-3.jpg" loading="eager" vspace="2" height="100" /> <strong>Senecio vulgaris</strong> (<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=7524">Calflora</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/s_vulgaris-3.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Senecio vulgaris</strong></u></span><br />
+<i>Common Groudsel</i><br />
+<span style="color: red">Not Edible</span> | <span style="color: blue">Medicinal</span> | <span style="color: red">Not Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Common Groundsel; Old Man in the Spring<br />
 <strong>Historic household popularity:</strong> Unknown<br />
-<strong>Comment:</strong><br />
-<strong>Edibility:</strong><br />
-<strong>Medicinal Uses:</strong><br />
+<strong>Comment:</strong> We have tons of this stuff.  Dad has taken a liking to the name "old man in spring", and he jokese that the airy seed heads looks like old Eisteins waving their wispy heads of white hair around.<br />
+<strong>Edibility:</strong> While this plant has some history of consumption, it is also known to contain a liver damaging toxin, so best to steer well clear.<br />
+<strong>Medicinal Uses:</strong> S. vulgaris has been long used for various medicinal purposes, including treating stomach sickness.<br />
+<strong>Distribution:</strong> Not native to California. Native to Europe.<br />
 <strong>Date observed:</strong> 3/31/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=7524">Calflora</a> |
+<a href="https://pfaf.org/user/Plant.aspx?LatinName=Senecio+vulgaris">PFAF</a> |
+<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=4866">Jepson</a><br />
 <a href="/assets/img/s_vulgaris-1.jpg"><img src="/assets/img/thumbnails/s_vulgaris-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/s_vulgaris-2.jpg"><img src="/assets/img/thumbnails/s_vulgaris-2.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/s_vulgaris-3.jpg"><img src="/assets/img/thumbnails/s_vulgaris-3.jpg" vspace="2" height="150" /></a>
@@ -1134,9 +1370,10 @@ Species documented to date (4/11/2020):<br />
 <a href="/assets/img/s_vulgaris-5.jpg"><img src="/assets/img/thumbnails/s_vulgaris-5.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/s_asper-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Sonchus asper</strong>
-(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=10384">Calflora</a> | 
-<a href="https://pfaf.org/user/Plant.aspx?LatinName=Sonchus+oleraceus">PFAF</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/s_asper-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Sonchus asper</strong></u></span><br />
+<i>Spiny Sow Thistle</i><br />
+<span style="color: green">Edible</span> | <span style="color: blue">Medicinal</span> | <span style="color: red">Not Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Spiny Sow Thistle<br />
 <strong>Historic household popularity:</strong> Unknown<br />
@@ -1145,6 +1382,9 @@ Species documented to date (4/11/2020):<br />
 <strong>Medicinal Uses:</strong> Used as a poultice on wounds.<br />
 <strong>Distribution:</strong> Not native to California. Native to Europe, West Asia, and North Africa.<br />
 <strong>Date observed:</strong> 4/3/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=10384">Calflora</a> | 
+<a href="https://pfaf.org/user/Plant.aspx?LatinName=Sonchus+oleraceus">PFAF</a><br />
 <a href="/assets/img/s_asper-1.jpg"><img src="/assets/img/thumbnails/s_asper-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/s_asper-2.jpg"><img src="/assets/img/thumbnails/s_asper-2.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/s_asper-3.jpg"><img src="/assets/img/thumbnails/s_asper-3.jpg" vspace="2" height="150" /></a>
@@ -1152,9 +1392,10 @@ Species documented to date (4/11/2020):<br />
 <a href="/assets/img/s_asper-5.jpg"><img src="/assets/img/thumbnails/s_asper-5.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/s_oleraceus-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Sonchus oleraceus</strong>
-(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=7682">Calflora</a> | 
-<a href="https://pfaf.org/user/Plant.aspx?LatinName=Sonchus+oleraceus">PFAF</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/s_oleraceus-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Sonchus oleraceus</strong></u></span><br />
+<i>Common Sow Thistle</i><br />
+<span style="color: green">Edible</span> | <span style="color: blue">Medicinal</span> | <span style="color: red">Not Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Common Sow Thistle<br />
 <strong>Historic household popularity:</strong> Medium<br />
@@ -1163,6 +1404,9 @@ Species documented to date (4/11/2020):<br />
 <strong>Medicinal Uses:</strong> It has a variety of traditional uses, from treating warts to cancer to diarrhoea.<br />
 <strong>Distribution:</strong> Not native to California. Native to Europe and Western Asia.<br />
 <strong>Date observed:</strong> 4/3/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=7682">Calflora</a> | 
+<a href="https://pfaf.org/user/Plant.aspx?LatinName=Sonchus+oleraceus">PFAF</a><br />
 <a href="/assets/img/s_oleraceus-1.jpg"><img src="/assets/img/thumbnails/s_oleraceus-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/s_oleraceus-2.jpg"><img src="/assets/img/thumbnails/s_oleraceus-2.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/s_oleraceus-3.jpg"><img src="/assets/img/thumbnails/s_oleraceus-3.jpg" vspace="2" height="150" /></a>
@@ -1173,8 +1417,10 @@ Species documented to date (4/11/2020):<br />
 <a href="/assets/img/s_oleraceus-8.jpg"><img src="/assets/img/thumbnails/s_oleraceus-8.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/s_byzantina-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Stachys byzantina</strong>
-(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=9245">Calflora</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/s_byzantina-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Stachys byzantina</strong></u></span><br />
+<i>Lamb's Ear</i><br />
+<span style="color: green">Edible</span> | <span style="color: blue">Medicinal</span> | <span style="color: red">Not Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Lamb's Ear; Woolly Hedgenettle<br />
 <strong>Historic household popularity:</strong> High<br />
@@ -1183,13 +1429,17 @@ Species documented to date (4/11/2020):<br />
 <strong>Medicinal Uses:</strong> Antibacterial; useful for healing cuts, stings, bites, and for colds and throat infections. It double duty as a natural band-aid and toilet paper!<br />
 <strong>Distribution:</strong> Not native to California. Native to Turkey, Armenia, and Iran.<br />
 <strong>Date observed:</strong> 4/2/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=9245">Calflora</a><br />
 <a href="/assets/img/s_byzantina-1.jpg"><img src="/assets/img/thumbnails/s_byzantina-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/s_byzantina-2.jpg"><img src="/assets/img/thumbnails/s_byzantina-2.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/s_byzantina-3.jpg"><img src="/assets/img/thumbnails/s_byzantina-3.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/s_rigida-3.jpg" loading="eager" vspace="2" height="100" /> <strong>Stachys rigida</strong>
-(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=12037">Calflora</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/s_rigida-3.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Stachys rigida</strong></u></span><br />
+<i>Rough Hedgenettle</i><br />
+<span style="color: green">Edible</span> | <span style="color: blue">Medicinal</span> | <span style="color: green">Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Rough Hedgenettle<br />
 <strong>Historic household popularity:</strong> Unknown<br />
@@ -1198,6 +1448,8 @@ Species documented to date (4/11/2020):<br />
 <strong>Medicinal Uses:</strong> Tea or tincture improves headaches (including hangovers), and helps sprains and joint inflammation (source: Medicinal Plants of the Pacific West).<br />
 <strong>Distribution:</strong> California Native!<br />
 <strong>Date observed:</strong> 4/2/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=12037">Calflora</a><br />
 <a href="/assets/img/s_rigida-1.jpg"><img src="/assets/img/thumbnails/s_rigida-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/s_rigida-2.jpg"><img src="/assets/img/thumbnails/s_rigida-2.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/s_rigida-3.jpg"><img src="/assets/img/thumbnails/s_rigida-3.jpg" vspace="2" height="150" /></a>
@@ -1208,14 +1460,22 @@ Species documented to date (4/11/2020):<br />
 <a href="/assets/img/s_rigida-8.jpg"><img src="/assets/img/thumbnails/s_rigida-8.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/s_media-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Stellaria media</strong> (<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=7776">Calflora</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/s_media-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Stellaria media</strong></u></span><br />
+<i>Chickweed</i><br />
+<span style="color: green">Edible</span> | <span style="color: blue">Medicinal</span> | <span style="color: red">Not Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Chickweed<br />
 <strong>Historic household popularity:</strong> Unknown<br />
-<strong>Comment:</strong><br />
-<strong>Edibility:</strong><br />
-<strong>Medicinal Uses:</strong><br />
+<strong>Comment:</strong> The chickweed population in our yard is concentrated amongst the lamb's ears by the bike shed and in the side yard along the concrete wall by the sauna.  These succulent greens are in no danger of being evicted from the property.<br />
+<strong>Edibility:</strong> A very popular introductory species for budding foragers. The leaves can be eaten raw or cooked, and the seed can be (painstakingly) collected and used as a flour or thickener in various recipes. S. media does contain some saponins would could be harmlful in larger quantities, so maybe don't go on a chickweed fast. There are a bunch of resources on foraging chickweed and recipes out there.<br />
+<strong>Medicinal Uses:</strong> Herbalists have been using chickweed since dinosaur times (ok, maybe not that long), and its well known for treating itchy skin conditions.  It is also used to treat chest problems and digestion, among various other ailments.<br />
+<strong>Distribution:</strong> Not native to California. Native to Eurasia.<br />
 <strong>Date observed:</strong> 3/31/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=7776">Calflora</a> |
+<a href="https://pfaf.org/user/plant.aspx?LatinName=Stellaria+media">PFAF</a> |
+<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=45497">Jepson</a><br />
 <a href="/assets/img/s_media-1.jpg"><img src="/assets/img/thumbnails/s_media-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/s_media-2.jpg"><img src="/assets/img/thumbnails/s_media-2.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/s_media-3.jpg"><img src="/assets/img/thumbnails/s_media-3.jpg" vspace="2" height="150" /></a>
@@ -1223,10 +1483,10 @@ Species documented to date (4/11/2020):<br />
 <a href="/assets/img/s_media-5.jpg"><img src="/assets/img/thumbnails/s_media-5.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/t_parthenium-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Tanacetum parthenium</strong>
-(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=7919">Calflora</a> | 
-<a href="https://pfaf.org/user/Plant.aspx?LatinName=Tanacetum+parthenium">PFAF</a> |
-<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=5215">Jepson</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/t_parthenium-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Tanacetum parthenium</strong></u></span><br />
+<i>Feverfew</i><br />
+<span style="color: red">Not Edible</span> | <span style="color: blue">Medicinal</span> | <span style="color: red">Not Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Feverfew<br />
 <strong>Historic household popularity:</strong> High<br />
@@ -1235,14 +1495,19 @@ Species documented to date (4/11/2020):<br />
 <strong>Medicinal Uses:</strong> A well-reputed medicinal herb.  Commonly used to treat headaches and arthritis, as well as colds and fevers.<br />
 <strong>Distribution:</strong> Not native to California.  Native to Europe and Asia.<br />
 <strong>Date observed:</strong> 4/10/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=7919">Calflora</a> | 
+<a href="https://pfaf.org/user/Plant.aspx?LatinName=Tanacetum+parthenium">PFAF</a> |
+<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=5215">Jepson</a><br />
 <a href="/assets/img/t_parthenium-1.jpg"><img src="/assets/img/thumbnails/t_parthenium-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/t_parthenium-2.jpg"><img src="/assets/img/thumbnails/t_parthenium-2.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/t_parthenium-3.jpg"><img src="/assets/img/thumbnails/t_parthenium-3.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/t_officinale-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Taraxacum officinale</strong>
-(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=7922">Calflora</a> | 
-<a href="https://pfaf.org/user/plant.aspx?LatinName=Taraxacum+officinale">PFAF</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/t_officinale-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Taraxacum officinale</strong></u></span><br />
+<i>Common Dandelion</i><br />
+<span style="color: green">Edible</span> | <span style="color: blue">Medicinal</span> | <span style="color: red">Not Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Common Dandelion<br />
 <strong>Historic household popularity:</strong> Medium-High<br />
@@ -1251,6 +1516,9 @@ Species documented to date (4/11/2020):<br />
 <strong>Medicinal Uses:</strong> There seems to be a whole lotta uses with complicated descriptions which I won't try to summarize.<br />
 <strong>Distribution:</strong> Not native to California.  Native to Europe and Asia.<br />
 <strong>Date observed:</strong> 4/2/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=7922">Calflora</a> | 
+<a href="https://pfaf.org/user/plant.aspx?LatinName=Taraxacum+officinale">PFAF</a><br />
 <a href="/assets/img/t_officinale-1.jpg"><img src="/assets/img/thumbnails/t_officinale-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/t_officinale-2.jpg"><img src="/assets/img/thumbnails/t_officinale-2.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/t_officinale-3.jpg"><img src="/assets/img/thumbnails/t_officinale-3.jpg" vspace="2" height="150" /></a>
@@ -1261,9 +1529,10 @@ Species documented to date (4/11/2020):<br />
 <a href="/assets/img/t_officinale-8.jpg"><img src="/assets/img/thumbnails/t_officinale-8.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/t_erythrospermum-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Taraxacum erythrospermum</strong>
-(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=12084">Calflora</a> | 
-<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=5225">Jepson</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/t_erythrospermum-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Taraxacum erythrospermum</strong></u></span><br />
+<i>Red-seeded Dandelion</i><br />
+<span style="color: green">Edible</span> | <span style="color: blue">Medicinal</span> | <span style="color: red">Not Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Red-seeded Dandelion<br />
 <strong>Historic household popularity:</strong> Unknown<br />
@@ -1272,6 +1541,9 @@ Species documented to date (4/11/2020):<br />
 <strong>Medicinal Uses:</strong> Again, presumably similar to T. officinale.  Not much info here.<br />
 <strong>Distribution:</strong> Not native to California according to Caflora, though Wikipedia seems to imply it is native to North America.  There isn't a ton of info on this, surprisingly.<br />
 <strong>Date observed:</strong> 4/7/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=12084">Calflora</a> | 
+<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=5225">Jepson</a><br />
 <a href="/assets/img/t_erythrospermum-1.jpg"><img src="/assets/img/thumbnails/t_erythrospermum-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/t_erythrospermum-2.jpg"><img src="/assets/img/thumbnails/t_erythrospermum-2.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/t_erythrospermum-3.jpg"><img src="/assets/img/thumbnails/t_erythrospermum-3.jpg" vspace="2" height="150" /></a>
@@ -1284,15 +1556,19 @@ Species documented to date (4/11/2020):<br />
 <a href="/assets/img/t_erythrospermum-10.jpg"><img src="/assets/img/thumbnails/t_erythrospermum-10.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/torilis-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Torilis sp.</strong></summary>
+<details><summary><img src="/assets/img/thumbnails/torilis-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Torilis sp.</strong></u></span><br />
+<i>Hedge Parsley</i><br />
+<span style="color: grey">?</span> | <span style="color: grey">?</span> | <span style="color: red">Not Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
-<strong>Common name(s):</strong> Hedgeparsley<br />
+<strong>Common name(s):</strong> Hedge Parsley<br />
 <strong>Historic household popularity:</strong> Unknown<br />
 <strong>Comment:</strong> This is either t. nodosa or t. arvensis.  Time will tell.<br />
 <strong>Edibility:</strong><br />
 <strong>Medicinal Uses:</strong><br />
 <strong>Distribution:</strong> Not native to California.<br />
 <strong>Date observed:</strong> 4/8/2020<br />
+<strong>Additional references:</strong><br />
 <a href="/assets/img/torilis-1.jpg"><img src="/assets/img/thumbnails/torilis-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/torilis-2.jpg"><img src="/assets/img/thumbnails/torilis-2.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/torilis-3.jpg"><img src="/assets/img/thumbnails/torilis-3.jpg" vspace="2" height="150" /></a>
@@ -1302,9 +1578,10 @@ Species documented to date (4/11/2020):<br />
 <a href="/assets/img/torilis-7.jpg"><img src="/assets/img/thumbnails/torilis-7.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/t_hirtum-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Trifolium hirtum</strong>
-(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=8081">Calflora</a> | 
-<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=47096">Jepson</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/t_hirtum-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Trifolium hirtum</strong></u></span><br />
+<i>Rose Clover</i><br />
+<span style="color: red">Not Edible</span> | <span style="color: grey">Not Medicinal</span> | <span style="color: red">Not Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Rose Clover<br />
 <strong>Historic household popularity:</strong> Unknown<br />
@@ -1313,6 +1590,9 @@ Species documented to date (4/11/2020):<br />
 <strong>Medicinal Uses:</strong> I can't find any.<br />
 <strong>Distribution:</strong> Not native to California. Native to Europe, North Africa, and West Asia.<br />
 <strong>Date observed:</strong> 4/11/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=8081">Calflora</a> | 
+<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=47096">Jepson</a><br />
 <a href="/assets/img/t_hirtum-1.jpg"><img src="/assets/img/thumbnails/t_hirtum-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/t_hirtum-2.jpg"><img src="/assets/img/thumbnails/t_hirtum-2.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/t_hirtum-3.jpg"><img src="/assets/img/thumbnails/t_hirtum-3.jpg" vspace="2" height="150" /></a>
@@ -1321,10 +1601,10 @@ Species documented to date (4/11/2020):<br />
 <a href="/assets/img/t_hirtum-6.jpg"><img src="/assets/img/thumbnails/t_hirtum-6.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/u_dioica-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Urtica dioica</strong>
-(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=8443">Calflora</a> |
-<a href="https://pfaf.org/user/plant.aspx?LatinName=Urtica+dioica">PFAF</a> |
-<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=47575">Jepson</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/u_dioica-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Urtica dioica</strong></u></span><br />
+<i>Stinging Nettle</i><br />
+<span style="color: green">Edible</span> | <span style="color: blue">Medicinal</span> | <span style="color: green">Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Stinging Nettle<br />
 <strong>Historic household popularity:</strong> Medium<br />
@@ -1333,19 +1613,30 @@ Species documented to date (4/11/2020):<br />
 <strong>Medicinal Uses:</strong> There is a lot here.  I will have to come back later for a more thorough look.<br />
 <strong>Distribution:</strong> California native!<br />
 <strong>Date observed:</strong> 4/8/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=8443">Calflora</a> |
+<a href="https://pfaf.org/user/plant.aspx?LatinName=Urtica+dioica">PFAF</a> |
+<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=47575">Jepson</a><br />
 <a href="/assets/img/u_dioica-1.jpg"><img src="/assets/img/thumbnails/u_dioica-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/u_dioica-2.jpg"><img src="/assets/img/thumbnails/u_dioica-2.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/u_dioica-3.jpg"><img src="/assets/img/thumbnails/u_dioica-3.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/v_persica-1.jpg" loading="eager" vspace="2" height="100" /> <strong>Veronica persica</strong> (<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=8253">Calflora</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/v_persica-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Veronica persica</strong></u></span><br />
+<i>Persian Speedwell</i><br />
+<span style="color: green">Edible</span> | <span style="color: blue">Medicinal</span> | <span style="color: red">Not Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
-<strong>Common name(s):</strong> Bird's Eye Speedwell<br />
+<strong>Common name(s):</strong> Persian Speedwell; Bird's Eye Speedwell<br />
 <strong>Historic household popularity:</strong> Unknown<br />
-<strong>Comment:</strong><br />
-<strong>Edibility:</strong><br />
-<strong>Medicinal Uses:</strong><br />
+<strong>Comment:</strong> V. persica has super cool purple-tinged blue flowers and inhabits exactly one little piece of the back yard (the back raised "flower" bed).<br />
+<strong>Edibility:</strong> The leaves can be reportedly eaten, at least in small quantities, but are somewhat bitter, especially when mature. When it's famine time, you know what to do.  Actually, once upon a time in France v. persica made a popular black tea substitute (they called it 'Europa Tea'), since it had a similar smell and vaguely similar taste to black tea. <a href="https://mywoodlandgear.com/wew-persian-speedwell/">Here</a> is some related info, and <a href="http://www.juliasedibleweeds.com/edible-weeds-flowers/speedwell-pretty-blue-flowers/">here</a> is some more.<br />
+<strong>Medicinal Uses:</strong> It can be made into a tea that relieves cold symptoms and skin issues, among other uses.<br />
+<strong>Distribution:</strong> Not native to California. Native to Eurasia.<br />
 <strong>Date observed:</strong> 3/31/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=8253">Calflora</a> |
+<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=47976">Jepson</a><br />
 <a href="/assets/img/v_persica-1.jpg"><img src="/assets/img/thumbnails/v_persica-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/v_persica-2.jpg"><img src="/assets/img/thumbnails/v_persica-2.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/v_persica-3.jpg"><img src="/assets/img/thumbnails/v_persica-3.jpg" vspace="2" height="150" /></a>
@@ -1356,10 +1647,10 @@ Species documented to date (4/11/2020):<br />
 <a href="/assets/img/v_persica-8.jpg"><img src="/assets/img/thumbnails/v_persica-8.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/v_sativa-2.jpg" loading="eager" vspace="2" height="100" /> <strong>Vicia sativa</strong>
-(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=8446">Calflora</a> |
-<a href="https://pfaf.org/user/Plant.aspx?LatinName=Vicia+sativa">PFAF</a> |
-<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=48097">Jepson</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/v_sativa-2.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Vicia sativa</strong></u></span><br />
+<i>Spring Vetch</i><br />
+<span style="color: green">Edible</span> | <span style="color: blue">Medicinal</span> | <span style="color: red">Not Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Spring Vetch; Garden Vetch<br />
 <strong>Historic household popularity:</strong> Unknown<br />
@@ -1368,15 +1659,19 @@ Species documented to date (4/11/2020):<br />
 <strong>Medicinal Uses:</strong> Can be used as an antiseptic poultice on wounds and for treating some skin problems like eczema.<br />
 <strong>Distribution:</strong> Not native to California. Native to Europe, North Africa, and West Asia.<br />
 <strong>Date observed:</strong> 4/10/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=8446">Calflora</a> |
+<a href="https://pfaf.org/user/Plant.aspx?LatinName=Vicia+sativa">PFAF</a> |
+<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=48097">Jepson</a><br />
 <a href="/assets/img/v_sativa-1.jpg"><img src="/assets/img/thumbnails/v_sativa-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/v_sativa-2.jpg"><img src="/assets/img/thumbnails/v_sativa-2.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/v_sativa-3.jpg"><img src="/assets/img/thumbnails/v_sativa-3.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/z_aethiopica-2.jpg" loading="eager" vspace="2" height="100" /> <strong>Zantedeschia aethiopica</strong>
-(<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=8380">Calflora</a> |
-<a href="https://pfaf.org/user/Plant.aspx?LatinName=Zantedeschia+aethiopica">PFAF</a> |
-<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=48829">Jepson</a>)</summary>
+<details><summary><img src="/assets/img/thumbnails/z_aethiopica-2.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Zantedeschia aethiopica</strong></u></span><br />
+<i>Calla Lily</i><br />
+<span style="color: green">Edible</span> | <span style="color: grey">Not Medicinal</span> | <span style="color: red">Not Native</span><br />
+</div></summary>
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Calla Lily<br />
 <strong>Historic household popularity:</strong> High<br />
@@ -1385,6 +1680,10 @@ Species documented to date (4/11/2020):<br />
 <strong>Medicinal Uses:</strong> None known.<br />
 <strong>Distribution:</strong> Not native to California. Native to Southern Africa.<br />
 <strong>Date observed:</strong> 4/7/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=8380">Calflora</a> |
+<a href="https://pfaf.org/user/Plant.aspx?LatinName=Zantedeschia+aethiopica">PFAF</a> |
+<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=48829">Jepson</a><br />
 <a href="/assets/img/z_aethiopica-1.jpg"><img src="/assets/img/thumbnails/z_aethiopica-1.jpg" vspace="2" height="150" /></a>
 <a href="/assets/img/z_aethiopica-2.jpg"><img src="/assets/img/thumbnails/z_aethiopica-2.jpg" vspace="2" height="150" /></a>
 </div></details>
