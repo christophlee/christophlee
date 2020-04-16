@@ -26,11 +26,13 @@ permalink: /botany/petaluma
 
 Botanical Encyclopedia of my Petaluma yard (aka the Lee Farm)!
 
+See my accompanying blog post [**here**](/2020/04/15/Petaluma-Botany).
+
 Note: I've done my best, but I can't guarantee that all identifications are correct. I also haven't rigorously validated the edibility and medicinal use information listed below, so do additional research if you intend to use any of these plants internally.
 
-Known exclusions: 3 grass spp.
+Known exclusions: 2 grass spp.
 
-Species documented to date (4/11/2020):<br />
+Species documented to date (4/16/2020):<br />
 (Click to expand)
 
 <div style="padding-left: 1em">
@@ -749,6 +751,33 @@ Species documented to date (4/11/2020):<br />
 <a href="/assets/img/h_echioides-5.jpg"><img src="/assets/img/thumbnails/h_echioides-5.jpg" vspace="2" height="150" /></a>
 </div></details>
 
+<details><summary><img src="/assets/img/thumbnails/h_murinum-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Hordeum murinum</strong></u></span><br />
+<i>Mouse Barley</i><br />
+<span style="color: green">Edible</span> | <span style="color: blue">Medicinal</span> | <span style="color: red">Not Native</span><br />
+</div></summary>
+<div style="padding-left: 2em">
+<strong>Common name(s):</strong> Mouse Barley; Wall Barley; Foxtail; Smooth Barley<br />
+<strong>Historic household popularity:</strong> Unknown<br />
+<strong>Comment:</strong> I've found a few h. murinum plants growing near the beehive. A single plant looks like several, though, since the stems branch out from the base and emerge from the weed jungle several feet distant.  It will be interesting to see if this sticks around long enough to mature the seeds.<br />
+<strong>Edibility:</strong> The seed is edible and can be cooked, used as a bread flour, etc, or as pinole, though it sounds like it is not the most rewarding of grains out there.<br />
+<strong>Medicinal Uses:</strong> Apparently used to treat bladder issues.<br />
+<strong>Distribution:</strong> Not native to California. Native to Europe and North Africa.<br />
+<strong>Date observed:</strong> 4/8/2020<br />
+<strong>Additional references:</strong>
+<a href="https://www.calflora.org/cgi-bin/species_query.cgi?where-calrecnum=4225">Calflora</a> |
+<a href="https://pfaf.org/user/Plant.aspx?LatinName=Hordeum+murinum">PFAF</a> |
+<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=28392">Jepson</a><br />
+<a href="/assets/img/h_murinum-1.jpg"><img src="/assets/img/thumbnails/h_murinum-1.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/h_murinum-2.jpg"><img src="/assets/img/thumbnails/h_murinum-2.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/h_murinum-3.jpg"><img src="/assets/img/thumbnails/h_murinum-3.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/h_murinum-4.jpg"><img src="/assets/img/thumbnails/h_murinum-4.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/h_murinum-5.jpg"><img src="/assets/img/thumbnails/h_murinum-5.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/h_murinum-6.jpg"><img src="/assets/img/thumbnails/h_murinum-6.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/h_murinum-7.jpg"><img src="/assets/img/thumbnails/h_murinum-7.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/h_murinum-8.jpg"><img src="/assets/img/thumbnails/h_murinum-8.jpg" vspace="2" height="150" /></a>
+<a href="/assets/img/h_murinum-9.jpg"><img src="/assets/img/thumbnails/h_murinum-9.jpg" vspace="2" height="150" /></a>
+</div></details>
+
 <details><summary><img src="/assets/img/thumbnails/h_radicata-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Hypochoeris radicata</strong></u></span><br />
 <i>Cat's Ear</i><br />
 <span style="color: green">Edible</span> | <span style="color: blue">Medicinal</span> | <span style="color: red">Not Native</span><br />
@@ -800,7 +829,7 @@ Species documented to date (4/11/2020):<br />
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Prickly Wild Lettuce<br />
 <strong>Historic household popularity:</strong> Unknown<br />
-<strong>Comment:</strong> We have a number of l. serriola plants in our yard, including a big one that's trying to muscle its way through the middle of the coffee berry bush by the bee hive. These plants seem like they can have quite a bit of leave variation between individuals and over time.  Interestingly, l. serriola is the closest botanical relative to l. sativa -- garden lettuce!<br />
+<strong>Comment:</strong> We have a number of l. serriola plants in our yard, including a big one that's trying to muscle its way through the middle of the coffee berry bush by the bee hive. These plants seem like they can have quite a bit of leaf variation between individuals and over time.  Interestingly, l. serriola is the closest botanical relative to l. sativa -- garden lettuce!<br />
 <strong>Edibility:</strong> The young leaves can be eaten raw or (lightly) cooked and the flowering shoots can be cooked like asparagus.  Supposedly the plant becomes unpleasantly bitter as it gets older.  I have not tried it, though I might.  I wonder if the spikes on the leaves will be an issue.<br />
 <strong>Medicinal Uses:</strong>  So, there is a lot going on here.  Apparently, the mikly sap of l. serriola contains a compound called 'lactucarium', which is, in effect, a very week opium that doesn't have side effects (it is not addictive nor nausea-inducing).  The concentration of this magical 'lettuce opium' is maximized when the plant goes to flower, and can be collected by cutting off the flower heads and scraping away the exuded milk repeatedly until it runs dry.  It sounds like pretty potent stuff, even so, and should be used with caution.  Very interesting indeed.  Apparently lettuce opium has been around for a long time, but saw a resurgence in popularity in the 1970's with the hippie movement, and is still used today as a pain reliever and legal psychotropic.  L. virosa, a closely related species, has higher concentrations of lactucarium and is more well known for these medicinal properties, while garden lettuce (l. sativa) contains some amount of lactucarium as well!<br />
 <strong>Distribution:</strong> Not native to California. Native to Europe, Asia, and North Africa.<br />
@@ -912,7 +941,7 @@ Species documented to date (4/11/2020):<br />
 </div></details>
 
 <details><summary><img src="/assets/img/thumbnails/m_parviflora-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Malva parviflora</strong></u></span><br />
-<i>Malva parviflora</i><br />
+<i>Cheeseweed Mallow</i><br />
 <span style="color: green">Edible</span> | <span style="color: blue">Medicinal</span> | <span style="color: red">Not Native</span><br />
 </div></summary>
 <div style="padding-left: 2em">
@@ -1320,32 +1349,7 @@ Species documented to date (4/11/2020):<br />
 <a href="/assets/img/r_crispus-3.jpg"><img src="/assets/img/thumbnails/r_crispus-3.jpg" vspace="2" height="150" /></a>
 </div></details>
 
-<details><summary><img src="/assets/img/thumbnails/s_cereale-1.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Secale cereale</strong></u></span><br />
-<i>Rye</i><br />
-<span style="color: green">Edible</span> | <span style="color: grey">Not Medicinal</span> | <span style="color: red">Not Native</span><br />
-</div></summary>
-<div style="padding-left: 2em">
-<strong>Common name(s):</strong> Rye<br />
-<strong>Historic household popularity:</strong> Unknown<br />
-<strong>Comment:</strong> I've found a few rye plants growing near the beehive. A single plant looks like several, though, since the stems branch out from the base and emerge from the weed jungle several feet distant.  It will be interesting to see if this sticks around long enough to mature the seeds.<br />
-<strong>Edibility:</strong> Bread, beer, cake, all that good stuff.<br />
-<strong>Medicinal Uses:</strong> Not a whole lot here.<br />
-<strong>Distribution:</strong> Not native to California. Likely native to West Asia.<br />
-<strong>Date observed:</strong> 4/8/2020<br />
-<strong>Additional references:</strong>
-<a href="https://www.calflora.org//cgi-bin/species_query.cgi?where-taxon=Secale+cereale">Calflora</a> |
-<a href="https://pfaf.org/user/Plant.aspx?LatinName=Secale+cereale">PFAF</a> |
-<a href="https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=43939">Jepson</a><br />
-<a href="/assets/img/s_cereale-1.jpg"><img src="/assets/img/thumbnails/s_cereale-1.jpg" vspace="2" height="150" /></a>
-<a href="/assets/img/s_cereale-2.jpg"><img src="/assets/img/thumbnails/s_cereale-2.jpg" vspace="2" height="150" /></a>
-<a href="/assets/img/s_cereale-3.jpg"><img src="/assets/img/thumbnails/s_cereale-3.jpg" vspace="2" height="150" /></a>
-<a href="/assets/img/s_cereale-4.jpg"><img src="/assets/img/thumbnails/s_cereale-4.jpg" vspace="2" height="150" /></a>
-<a href="/assets/img/s_cereale-5.jpg"><img src="/assets/img/thumbnails/s_cereale-5.jpg" vspace="2" height="150" /></a>
-<a href="/assets/img/s_cereale-6.jpg"><img src="/assets/img/thumbnails/s_cereale-6.jpg" vspace="2" height="150" /></a>
-<a href="/assets/img/s_cereale-7.jpg"><img src="/assets/img/thumbnails/s_cereale-7.jpg" vspace="2" height="150" /></a>
-<a href="/assets/img/s_cereale-8.jpg"><img src="/assets/img/thumbnails/s_cereale-8.jpg" vspace="2" height="150" /></a>
-<a href="/assets/img/s_cereale-9.jpg"><img src="/assets/img/thumbnails/s_cereale-9.jpg" vspace="2" height="150" /></a>
-</div></details>
+
 
 <details><summary><img src="/assets/img/thumbnails/s_vulgaris-3.jpg" loading="eager" vspace="2" height="100" /> <div style="display:inline-block;vertical-align:middle"><span style="font-size:large"><u><strong>Senecio vulgaris</strong></u></span><br />
 <i>Common Groudsel</i><br />
@@ -1536,7 +1540,7 @@ Species documented to date (4/11/2020):<br />
 <div style="padding-left: 2em">
 <strong>Common name(s):</strong> Red-seeded Dandelion<br />
 <strong>Historic household popularity:</strong> Unknown<br />
-<strong>Comment:</strong> Super stoked to realize that we have two species of dandelion growing in our yard!  T. erythrospermum differes from t. officinale in the color of the achene (seed) and leaf shape (and probably in other ways).  There are a number of these plants in the front yard, and growing right next to common dandelions!  Side note: it seems that t. erythrospermum may of undergone a taxonomic change, possibly explaining some of the lack of clear info on its uses / origins.<br />
+<strong>Comment:</strong> Super stoked to realize that we have two species of dandelion growing in our yard!  T. erythrospermum differs from t. officinale in the color of the achene (seed) and leaf shape (and probably in other ways).  There are a number of these plants in the front yard, and growing right next to common dandelions!  Side note: it seems that t. erythrospermum may of undergone a taxonomic change, possibly explaining some of the lack of clear info on its uses / origins.<br />
 <strong>Edibility:</strong> Presumably similar to T. officinale, though I haven't found information specific to t. erythrospermum.<br />
 <strong>Medicinal Uses:</strong> Again, presumably similar to T. officinale.  Not much info here.<br />
 <strong>Distribution:</strong> Not native to California according to Caflora, though Wikipedia seems to imply it is native to North America.  There isn't a ton of info on this, surprisingly.<br />
